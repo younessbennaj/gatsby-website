@@ -1,0 +1,19 @@
+@import '../variables';
+@import '../fonts';
+@import '../mixins';
+
+.banner {
+  position: fixed;
+  top: 0;
+  z-index: 201;
+  width: 100%;
+  background-color: $primary-color;
+  height: $banner-height;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .content {
+    color: white;
+  }
+}

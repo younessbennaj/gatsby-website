@@ -1,0 +1,32 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+  justify-content: center;
+
+  h1 {
+    @extend .h1;
+    @extend .text-left;
+    @extend .text-black;
+  }
+
+  h3 {
+    @extend .h3;
+    @extend .text-left;
+    @extend .text-black;
+  }
+
+  p {
+    @extend .paragraph;
+    @extend .text-left;
+    @extend .text-black;
+  }
+
+  .quote {
+    border-left: 6px solid $primary-color;
+    padding-left: 30px;
+  }
+}

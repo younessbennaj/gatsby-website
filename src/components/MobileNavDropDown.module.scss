@@ -1,0 +1,63 @@
+@import '../variables.scss';
+
+.mobileDropDown {
+    a {
+        color: $black;
+    }
+ 
+    ul {
+        padding-left: 24px;
+        margin-top: 0;
+        margin-bottom: 0;
+        opacity: 0;
+        pointer-events: none;
+        max-height: 0;
+        display: flex;
+        flex-direction: column;
+        transition: all 0.4s;
+
+        li {
+            margin-bottom: 24px;
+            list-style: none;
+            a {
+                color: $gray;
+                font-weight: 400;
+            }
+        }
+
+
+
+        
+    }
+
+    .parentActive {
+        color: $primary-color;
+    }
+
+    .subMenuActive {
+        opacity: 1;
+        pointer-events: all;
+        max-height: 500px;
+        margin-top: 24px;
+        margin-bottom: 24px;
+    }
+
+    .arrowActive {
+        transform: rotate(180deg);
+    }
+}
+
+.dropdownLink {
+    width: 40px;
+    img {
+        width: 24px;
+        transition: transform 0.4s;
+    }
+}
+
+.parentLink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

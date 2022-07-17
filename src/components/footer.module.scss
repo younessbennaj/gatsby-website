@@ -1,0 +1,138 @@
+@import '../fonts';
+@import '../variables';
+@import '../mixins';
+
+.mSectionFooter {
+  z-index: 2000;
+  background-color: $brown-light;
+  padding: 50px $wrapper-horizontal-padding 10px $wrapper-horizontal-padding;
+  .mainFooter {
+    max-width: $wrapper-max-width;
+    margin: auto;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    @media (min-width: 1300px) {
+      flex-wrap: nowrap;
+    }
+
+    .title {
+      font-weight: 700;
+      @extend .text-left;
+      margin-bottom: 16px;
+      @extend .text-black;
+
+      a {
+        @extend .text-black;
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
+
+    .link {
+      @extend .button-link;
+      @extend .text-left;
+      @extend .text-gray;
+      text-decoration: none;
+      margin-bottom: 8px;
+      display: inline-block;
+      @include transition(color 0.4s ease-in-out);
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    .col {
+      width: 100%;
+      padding-bottom: 16px;
+
+      @media (min-width: $small-size) {
+        padding-bottom: 0;
+        flex-basis: 200px;
+      }
+
+      .description {
+        @extend .button-link;
+        @extend .text-left;
+        @extend .text-gray;
+        max-width: 190px;
+      }
+
+      &:first-of-type {
+        .title {
+          font-size: 1.5rem;
+          line-height: 1.15;
+        }
+      }
+
+      @media (min-width: $medium-size) {
+        &:nth-of-type(2) {
+          margin-left: auto;
+        }
+      }
+    }
+
+    .col1 {
+      padding-bottom: 24px;
+      .acpr_legal {
+        @extend .button-link;
+        @extend .text-left;
+        @extend .text-gray;
+        font-size: 14px;
+      }
+      flex-basis: 1;
+      @media (min-width: $small-size) {
+        padding-bottom: 0;
+        flex-basis: 190px;
+      }
+      @media (min-width: $medium-size) {
+        flex-basis: 20%;
+      }
+    }
+  }
+
+  .bottomFooter {
+    max-width: $wrapper-max-width;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    @media (min-width: $small-size) {
+      flex-wrap: nowrap;
+    }
+
+    .link {
+      width: 187px;
+      height: 22px;
+      font-family: Work Sans;
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 1.57;
+      color: $black;
+      text-decoration: none;
+      padding-right: 10px;
+      @include transition(color 0.4s ease-in-out);
+      &:hover {
+        color: $primary-color;
+      }
+    }
+
+    .right {
+      display: flex;
+
+      svg {
+        margin-left: 10px;
+        color: #636363;
+        cursor: pointer;
+        @include transition(color 0.4s ease-in-out);
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
+  }
+}

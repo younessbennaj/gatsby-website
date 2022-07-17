@@ -1,0 +1,51 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+@import '../mixins';
+
+.sectionTitle {
+  @extend .h2;
+  @extend .text-center;
+  @extend .text-black;
+}
+
+.container {
+  max-width: $wrapper-max-width;
+  margin: auto;
+}
+
+.titleSection, .introductionSection, .pressKitSection {
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+  h1 {
+    @extend .h1;
+    @extend .text-center;
+    @extend .text-black;
+  }
+  h2 {
+    @extend .h2;
+    @extend .text-center;
+    @extend .text-black;
+  }
+  p, li {
+    @extend .paragraph;
+    @extend .text-left;
+    @extend .text-black;
+  }
+  a {
+    @extend .paragraph;
+    @extend .text-left;
+    @extend .text-black;
+    border-bottom: solid 1px $primary-color;
+    @include transition(color 0.4s ease-in-out);
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+.introductionSection {
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+}
+
+.pressKitSection {
+  padding: 50px $wrapper-horizontal-padding;
+}

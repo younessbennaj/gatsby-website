@@ -1,0 +1,54 @@
+@import '../fonts';
+@import '../mixins';
+
+.preview {
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  .blogPostPreviewImage {
+    // width: 100%;
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    margin-bottom: 16px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.1);
+    @media (min-width: $medium-size) {
+      border-radius: 10px;
+    }
+  }
+
+  h5 {
+    @extend .h4;
+    @extend .text-center;
+    @extend .text-black;
+    min-height: 120px;
+    margin: 0;
+    padding: 0 5px;
+  }
+
+  .articleInfo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+
+    .publishDate {
+      @extend .very-small-paragraph;
+      @extend .text-left;
+      @extend .text-gray;
+      margin-right: 5px;
+
+      &:after {
+        content: ',';
+      }
+    }
+
+    .tags {
+      @extend .very-small-paragraph;
+      @extend .text-center;
+      @extend .text-primary;
+    }
+  }
+}

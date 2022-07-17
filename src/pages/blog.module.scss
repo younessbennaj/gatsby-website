@@ -1,0 +1,47 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+
+.heroSection {
+  max-width: 1600px;
+  margin: auto;
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+  display: flex;
+  justify-content: space-around;
+
+  h1 {
+    @extend .h1;
+    @extend .text-left;
+    @extend .text-black;
+  }
+
+  img {
+    object-fit: contain;
+    display: block;
+    width: 20%;
+    height: 100%;
+  }
+}
+
+hr {
+  margin: 20px 0 20px 0;
+}
+.contentSection {
+  display: flex;
+  padding-left: 50px;
+  align-items: center;
+  max-width: $wrapper-max-width;
+  padding: 0px $wrapper-horizontal-padding;
+  margin: auto;
+  margin-bottom: 50px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  @media (min-width: $medium-size) {
+    flex-direction: row;
+  }
+  .articleCard {
+    max-width: 80%;
+    @media (min-width: $medium-size) {
+      max-width: 33%;
+    }
+  }
+}

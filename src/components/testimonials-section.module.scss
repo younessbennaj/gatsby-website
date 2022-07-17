@@ -1,0 +1,153 @@
+@import '../fonts';
+@import '../variables';
+@import '../mixins';
+
+.testimonialSection {
+  max-width: $wrapper-max-width;
+  margin: 100px auto;
+  padding: 0 $wrapper-horizontal-padding;
+  min-height: 400px;
+
+  h3 {
+    @extend .h3;
+    @extend .text-center;
+    @extend .text-black;
+    margin: 0px;
+  }
+}
+
+.content {
+  min-height: 400px;
+  padding: 40px;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-around;
+  @media (min-width: $medium-size) {
+    width: 100%;
+    flex-direction: row;
+  }
+
+  .leftContent {
+    display: flex;
+    flex-direction: column;
+    flex-direction: column-reverse;
+
+    @media (min-width: $medium-size) {
+      justify-content: space-between;
+      width: 60%;
+      flex-direction: column;
+    }
+    .meta {
+      height: 200px;
+      position: relative;
+      display: flex;
+      margin: auto;
+      width: 100%;
+
+      @media (min-width: $medium-size) {
+        width: 400px;
+      }
+
+      @media (min-width: $large-size) {
+        width: 400px;
+      }
+
+      .metaContainer {
+        .person_img {
+          img {
+            width: 140px;
+            border-radius: 50%;
+          }
+        }
+        .person_info {
+          border-radius: 10px;
+          padding: 5px;
+          box-shadow: 2px 4px 5px 3px #eaeaea;
+          display: flex;
+          justify-content: center;
+          flex-direction: column;
+          align-items: center;
+          padding: 24px;
+
+          position: absolute;
+          top: 80px;
+          left: 110px;
+          width: 100px;
+
+          @media (min-width: $medium-size) {
+            width: 200px;
+          }
+
+          @media (min-width: $large-size) {
+            width: 200px;
+          }
+
+          background: white;
+
+          @media (min-width: $medium-size) {
+            // padding-bottom: 0px;
+          }
+
+          .name {
+            @extend .button-link-bold;
+          }
+
+          // logo inside of the description. Do not display on mobile
+          img {
+            display: none;
+            width: 96px;
+
+            @media (min-width: $medium-size) {
+              display: unset;
+            }
+          }
+        }
+      }
+    }
+
+    .companies {
+      display: flex;
+      flex-direction: row;
+      align-items: baseline;
+      justify-content: center;
+      margin-bottom: 50px;
+      cursor: pointer;
+      @media (min-width: $medium-size) {
+        margin-bottom: unset;
+      }
+      img {
+        width: 100px;
+        @media (min-width: $medium-size) {
+          width: 200px;
+        }
+        border-bottom: solid 2px #bae7ff;
+      }
+      .active {
+        border-bottom: solid 4px #079cee;
+      }
+    }
+  }
+  .rightContent {
+    margin: 0 20px;
+
+    @media (min-width: $medium-size) {
+      width: 40%;
+    }
+    .quoteBox {
+      background-color: #e4f4fd;
+      padding: 32px;
+      border-radius: 10px;
+      height: calc(100% - 60px);
+      @extend .small-paragraph;
+      line-height: 2;
+      margin: 0;
+
+      &:before {
+        content: url('../assets/testimonials/quote-sign.svg');
+        color: $primary-color;
+        font-size: 20px;
+        white-space: pre-wrap;
+      }
+    }
+  }
+}

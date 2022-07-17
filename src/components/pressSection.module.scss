@@ -1,0 +1,68 @@
+@import '../fonts';
+@import '../mixins';
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 30px;
+  .quote {
+    text-align: center;
+    max-width: 800px;
+    @extend .h3;
+    margin-bottom: 20px;
+  }
+
+  .video {
+    height: 350px;
+
+    @media screen and (max-width: 600px) {
+      height: unset;
+      iframe {
+        max-width: 100%;
+        width: auto;
+        height: auto;
+      }
+    }
+  }
+
+  .media {
+    height: 100%;
+    display: flex;
+    max-width: $wrapper-max-width;
+    margin: auto;
+    flex-wrap: wrap;
+    // opacity: 0.89;
+    // -webkit-filter: grayscale(100%);
+    // filter: grayscale(100%);
+    @media (min-width: $small-size) {
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .medium {
+      display: block;
+      justify-content: center;
+      margin: 20px 0px;
+      width: 100%;
+      padding: 0px 10px;
+      @media (min-width: $small-size) {
+        width: 33%;
+      }
+      @media (min-width: $medium-size) {
+        display: block;
+        margin: 0px;
+        width: 100%;
+      }
+      .logo {
+        margin: auto;
+        max-width: 200px;
+        @media (min-width: $medium-size) {
+          height: auto;
+          max-width: inherit;
+          margin: 0px auto;
+        }
+      }
+    }
+  }
+}

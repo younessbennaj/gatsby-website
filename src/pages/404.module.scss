@@ -1,0 +1,34 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+
+.container {
+  max-width: $wrapper-max-width;
+  margin: auto;
+  padding: 92px $wrapper-horizontal-padding 0px $wrapper-horizontal-padding;
+  min-height: calc(100vh - 460px);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  h1 {
+    @extend .h1;
+    @extend .text-center;
+    @extend .text-black;
+    margin: 20px 0px;
+  }
+  p {
+    @extend .paragraph;
+    @extend .text-center;
+    @extend .text-black;
+    margin: 20px 0px;
+  }
+  button {
+    width: auto;
+    padding: 0px 20px;
+  }
+  a {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    margin: 20px 0px;
+  }
+}

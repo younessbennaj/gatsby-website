@@ -1,0 +1,68 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+
+.heroSection {
+  max-width: $wrapper-max-width;
+  min-height: 40vh;
+  margin: auto;
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+  display: flex;
+  justify-content: center;
+  flex-direction: column-reverse;
+  @media (min-width: $medium-size) {
+    flex-direction: row;
+  }
+
+  .heroText {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+    h1 {
+      @extend .h1;
+      @extend .text-center;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+
+    p {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+
+    .link {
+      width: 100%;
+      @extend .button-link-bold;
+      @extend .text-center;
+      @extend .text-primary;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+  }
+
+  .heroImage {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    .image, img {
+      width: 260px;
+      height: auto;
+      position: relative;
+      @media (min-width: $medium-size) {
+        width: 320px;
+      }
+    }
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+  }
+}

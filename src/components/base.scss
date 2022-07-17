@@ -1,0 +1,213 @@
+@import '../fonts.scss';
+@import '../mixins.scss';
+@import '../variables.scss';
+
+body {
+  font-family: 'Work Sans', Helvetica;
+  font-size: 1em;
+  line-height: 1.65;
+  color: $black;
+  background-color: $white;
+  margin: 0;
+}
+
+button {
+  border: none;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+input {
+  &:focus {
+    outline: 0;
+  }
+}
+
+img {
+  display: block;
+  width: 100%;
+  pointer-events: none;
+}
+
+h1,
+h2,
+h3 {
+  font-size: 2em;
+  font-weight: normal;
+}
+
+a {
+  color: $primary-color;
+  text-decoration: none;
+  @include transition(color 0.4s ease-in-out);
+
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+h1 {
+  @extend .h1;
+  @extend .text-black;
+  @extend .text-left;
+}
+
+h3 {
+  @extend .h3;
+  @extend .text-black;
+  @extend .text-left;
+}
+
+.h3 {
+  @extend h3;
+}
+
+p {
+  @extend .paragraph;
+  @extend .text-black;
+  @extend .text-left;
+}
+
+blockquote {
+  border-left: 6px solid $primary-color;
+  padding-left: 30px;
+  margin: 0;
+}
+
+.wrapper {
+  width: calc(100% - 10vmin);
+  margin: 0 auto;
+  padding: 5vmin 0;
+}
+
+hr {
+  opacity: 0.1;
+  background-color: $black;
+}
+
+/**
+ * article grid
+ */
+.article-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 5vmin;
+}
+
+/**
+ *
+ */
+.section-headline {
+  padding: 0 0 0.4em 0;
+  margin: 0 0 5vmin 0;
+  border-bottom: 1px solid $gray-light;
+}
+
+/**
+ *
+ */
+.list-inline {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+// Home testimonial slider custom css
+// More info: https://stackoverflow.com/questions/54985215/how-to-add-slick-active-class-in-slider-dots-in-react-slick
+
+.custom-slick-dots {
+  position: absolute;
+  bottom: -30px;
+
+  display: block;
+
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+
+  text-align: center;
+}
+.custom-slick-dots li {
+  position: relative;
+
+  display: inline-block;
+
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+  padding: 0;
+
+  cursor: pointer;
+}
+.custom-slick-dots li button {
+  font-size: 0;
+  line-height: 0;
+
+  display: block;
+
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+
+  cursor: pointer;
+
+  color: transparent;
+  border: 0;
+  outline: none;
+  background: transparent;
+}
+.custom-slick-dots li button:hover,
+.custom-slick-dots li button:focus {
+  outline: none;
+}
+.custom-slick-dots li button:hover:before,
+.custom-slick-dots li button:focus:before {
+  opacity: 1;
+  color: $primary-color;
+}
+.custom-slick-dots li button:before {
+  font-family: 'slick';
+  font-size: 6px;
+  line-height: 20px;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 20px;
+  height: 20px;
+
+  content: '•';
+  text-align: center;
+
+  opacity: 0.2;
+  color: $black;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.custom-slick-dots li.slick-active button:before {
+  opacity: 0.75;
+  color: white;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 0 !important;
+  line-height: 0;
+}
+
+.slick-slide div {
+  outline: none;
+}

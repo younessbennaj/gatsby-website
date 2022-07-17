@@ -1,0 +1,604 @@
+@import '../../fonts.scss';
+@import '../../variables.scss';
+@import '../../mixins';
+
+.heroSection {
+  max-width: $wrapper-max-width;
+  margin: auto;
+  padding: 92px $wrapper-horizontal-padding 0px $wrapper-horizontal-padding;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  @media (min-width: $medium-size) {
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  .content {
+    margin: auto;
+    width: 100%;
+    align-self: flex-start;
+    h1 {
+      @extend .h1;
+      @extend .text-center;
+      @extend .text-black;
+
+      @media (min-width: $medium-size) {
+        text-align: left;
+        margin: 0px 0px 32px 0;
+      }
+    }
+    p {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+
+      @media (min-width: $medium-size) {
+        text-align: left;
+        margin-bottom: 32px;
+        max-width: 80%;
+      }
+    }
+    .cta {
+      margin: auto;
+      max-width: 240px;
+      @media (min-width: $medium-size) {
+        margin: 0;
+      }
+    }
+  }
+  .illustration {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    overflow: hidden;
+    @media (min-width: $medium-size) {
+      display: block;
+    }
+
+    img,
+    .image {
+      width: 100%;
+      margin-top: 10px;
+      @media (min-width: $small-size) {
+        width: 80%;
+        position: relative;
+      }
+      @media (min-width: $medium-size) {
+        width: 100%;
+        position: relative;
+      }
+    }
+  }
+}
+
+.clientsSection {
+  background-color: #f8f8f8;
+  padding: 50px $wrapper-horizontal-padding;
+}
+
+.valuePropositionsSection {
+  max-width: $wrapper-max-width;
+  margin: auto;
+  padding: 50px $wrapper-horizontal-padding;
+  @media (min-width: $medium-size) {
+    display: flex;
+    justify-content: space-between;
+  }
+  .valueProposition {
+    max-width: 350px;
+    min-height: 415px;
+    padding: 40px 25px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    box-shadow: 0 11px 55px 10px rgba(0, 0, 0, 0.07),
+      0 13px 18px -8px rgba(0, 0, 0, 0.15);
+    box-sizing: border-box;
+    @media (min-width: $medium-size) {
+      box-shadow: none;
+      margin: 0px;
+    }
+    .image {
+      width: 100%;
+      height: 100%;
+    }
+    .description {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+    }
+    .name {
+      @extend .button-link-bold;
+      @extend .text-center;
+      @extend .text-primary;
+      text-decoration: underline;
+    }
+  }
+}
+
+.giftCardSection {
+  padding: 50px $wrapper-horizontal-padding;
+  max-width: $wrapper-max-width;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  @media (min-width: $medium-size) {
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  .content {
+    margin: auto;
+    width: 100%;
+    align-self: flex-start;
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+    .text {
+    }
+    .title {
+      @extend .h3;
+      @extend .text-center;
+      @extend .text-black;
+      margin-bottom: 32px;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+    .description {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+  }
+  .illustration {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+    img,
+    .image {
+      width: 50%;
+      @media (min-width: $medium-size) {
+        width: 100%;
+        position: relative;
+      }
+    }
+  }
+}
+
+.marketplaceSection {
+  padding: 50px $wrapper-horizontal-padding;
+  padding-bottom: 0px;
+  max-width: $wrapper-max-width;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  @media (min-width: $medium-size) {
+    flex-direction: unset;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  .content {
+    margin: auto;
+    width: 100%;
+    align-self: flex-start;
+    @media (min-width: $medium-size) {
+      width: 45%;
+    }
+    .text {
+    }
+    .title {
+      @extend .h3;
+      @extend .text-center;
+      @extend .text-black;
+      margin-bottom: 32px;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+    .description {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+  }
+  .illustration {
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    @media (min-width: $medium-size) {
+      width: 40%;
+      padding-top: unset;
+    }
+    img,
+    .image {
+      width: 50%;
+      @media (min-width: $medium-size) {
+        width: 100%;
+        position: relative;
+      }
+    }
+  }
+}
+
+.supportSection {
+  margin: auto;
+  padding: 50px $wrapper-horizontal-padding;
+  background-color: #ffd980;
+  .wrapper {
+    max-width: $wrapper-max-width;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    @media (min-width: $medium-size) {
+      flex-direction: row;
+      margin: auto;
+    }
+    .content {
+      padding: 0px 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0px auto;
+      @media (min-width: $medium-size) {
+        display: block;
+        width: 50%;
+      }
+      .title {
+        margin-bottom: 40px;
+        @extend .h3;
+        @extend .text-center;
+        @extend .text-black;
+        @media (min-width: $medium-size) {
+          text-align: left;
+          margin-bottom: 24px;
+        }
+      }
+      .description {
+        margin-bottom: 40px;
+        @extend .paragraph;
+        @extend .text-center;
+        @extend .text-black;
+        @media (min-width: $medium-size) {
+          text-align: left;
+          margin-bottom: 32px;
+        }
+      }
+      .mCardTestimonialExternal {
+        background-color: #fff;
+        border-bottom: 4px solid #ffae58;
+        padding: 30px;
+        background: $white;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1),
+          0 4px 6px 0 rgba(0, 0, 0, 0.05),
+          inset 0 1px 0 0 rgba(255, 255, 255, 0.1);
+
+        .quote {
+          @extend .paragraph;
+          @extend .text-left;
+          @extend .text-black;
+          margin-bottom: 20px;
+
+          &:before,
+          &:after {
+            content: '"';
+          }
+        }
+        .person {
+          display: flex;
+          align-items: center;
+          .avatar {
+            width: 44px;
+            height: 44px;
+            border-radius: 100%;
+            background-color: $primary-color;
+          }
+          .right {
+            // TODO uncomment when avatar is added
+            // padding-left: 20px;
+            .name {
+              font-family: Work Sans;
+              font-size: 18px;
+              font-weight: bold;
+              line-height: 1.39;
+              color: $black;
+              margin: 0;
+            }
+            .company {
+              @extend .button-link;
+              @extend .text-left;
+              @extend .text-gray;
+            }
+          }
+        }
+      }
+    }
+    .illustration {
+      display: flex;
+      justify-content: center;
+      width: 50%;
+      img,
+      .img {
+        width: 400px;
+        height: auto;
+      }
+      @media (min-width: $medium-size) {
+        display: block;
+      }
+    }
+  }
+}
+
+.securitySection {
+  max-width: $wrapper-max-width;
+  margin: auto;
+  padding: 50px $wrapper-horizontal-padding;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column-reverse;
+  @media (min-width: $medium-size) {
+    flex-direction: row;
+  }
+  .contentSecurity {
+    padding: 50px 20px;
+    @media (min-width: $medium-size) {
+      width: 50%;
+      justify-content: center;
+      padding: 50px 0px;
+    }
+    .title {
+      @extend .h3;
+      @extend .text-center;
+      @extend .text-black;
+      margin-bottom: 32px;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+    .description {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+      margin-bottom: 32px;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+    }
+    .cta {
+      max-width: 240px;
+      margin: auto;
+      @media (min-width: $medium-size) {
+        margin: 0px;
+      }
+    }
+  }
+
+  .illustrationSecurity {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    img {
+      width: 70%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
+.trustSection {
+  padding: 50px 0 0 0;
+  @media (min-width: $medium-size) {
+    padding: 50px 0;
+  }
+  background-color: #3dc47e;
+  min-height: 400px;
+  width: 100%;
+  position: relative;
+
+  h5 {
+    @extend .h4;
+    @extend .text-center;
+    @extend .text-white;
+    margin-bottom: 16px;
+  }
+
+  img {
+    max-width: 160px;
+    margin: 30px auto;
+    padding: 40px 0px;
+    @media (min-width: $medium-size) {
+      max-width: 200px;
+      position: absolute;
+      bottom: 20%;
+      right: 20%;
+      margin: 0px;
+      padding: 0px;
+    }
+  }
+
+  .slideContent {
+    max-width: 750px;
+    margin: auto;
+    padding: 0px $wrapper-horizontal-padding;
+
+    p {
+      @extend .paragraph;
+      @extend .text-center;
+      @extend .text-black;
+
+      &:before,
+      &:after {
+        content: '"';
+      }
+    }
+
+    h5 {
+      @extend .h4;
+      @extend .text-center;
+      @extend .text-black;
+    }
+
+    .job {
+      @extend .very-small-paragraph;
+      @extend .text-center;
+      @extend .text-white;
+    }
+  }
+
+  .callToAction {
+    max-width: $wrapper-max-width;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .callToActionCard {
+      background-color: white;
+      margin-top: 50px;
+      @media (min-width: $medium-size) {
+        bottom: -350px;
+        position: absolute;
+        bottom: -250px;
+        box-shadow: 0 5px 15px 0 rgba(40, 47, 54, 0.08);
+        border-radius: 10px;
+      }
+    }
+  }
+}
+
+.callToActionSection {
+  background-color: white;
+  @media (min-width: $medium-size) {
+    min-height: 280px;
+  }
+}
+
+.jobsSection {
+  max-width: 800px;
+  margin: auto;
+  padding: 50px $wrapper-horizontal-padding;
+
+  h2 {
+    @extend .h2;
+    @extend .text-center;
+    @extend .text-black;
+  }
+
+  p {
+    margin: auto;
+    margin-bottom: 24px;
+    max-width: 500px;
+    @extend .paragraph;
+    @extend .text-center;
+    @extend .text-black;
+  }
+
+  .cta {
+    margin: auto;
+    margin-bottom: 48px;
+    max-width: 300px;
+
+    button {
+      width: 300px;
+      height: 48px;
+      padding: 0px;
+      border-radius: 2px;
+      box-shadow: 0 0 0 2px $primary-color;
+      cursor: pointer;
+      background-color: white;
+      @extend .button-link-bold;
+      @extend .text-center;
+      @extend .text-primary;
+
+      a {
+        text-decoration: none;
+      }
+
+      @include transition(all 0.4s ease-in-out);
+      &:hover {
+        box-shadow: 0 0 0 2px lighten($primary-color, 10%);
+        color: lighten($primary-color, 10%);
+      }
+    }
+  }
+
+  .jobList {
+    .offer {
+      display: flex;
+      padding: 30px 20px;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: solid 1px rgba(46, 50, 71, 0.08);
+      cursor: pointer;
+      text-decoration: none;
+
+      h5 {
+        width: 100%;
+        font-size: 20px;
+        font-weight: 500;
+        @extend .text-left;
+        @extend .text-black;
+        margin: 0;
+        @media (min-width: $medium-size) {
+          width: 70%;
+        }
+      }
+
+      .location {
+        @extend .button-link;
+        @extend .text-left;
+        @extend .text-gray;
+        display: none;
+
+        @media (min-width: $medium-size) {
+          display: block;
+        }
+      }
+
+      @include transition(all 0.4s ease-in-out);
+      &:hover {
+        h5 {
+          font-size: 20px;
+          font-weight: 500;
+          @extend .text-left;
+          @extend .text-primary;
+        }
+
+        .location {
+          @extend .button-link;
+          @extend .text-left;
+          @extend .text-primary;
+        }
+      }
+    }
+  }
+}
+
+.dots {
+  li {
+    button {
+      color: red;
+    }
+  }
+  color: blue;
+}

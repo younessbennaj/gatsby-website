@@ -1,0 +1,114 @@
+@import './variables';
+
+// Text size classes
+.h1 {
+  font-family: Work Sans, Helvetica;
+  font-size: 44px;
+  font-weight: bold;
+  line-height: 1.11;
+  @media (min-width: $medium-size) {
+    font-size: 50px;
+  }
+}
+.h2 {
+  font-family: Work Sans, Helvetica;
+  font-size: 38px;
+  font-weight: bold;
+  line-height: 1;
+  letter-spacing: -0.5px;
+  @media (min-width: $medium-size) {
+    font-size: 44px;
+  }
+}
+.h3 {
+  font-family: Work Sans, Helvetica;
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 1.18;
+  @media (min-width: $medium-size) {
+    font-size: 34px;
+  }
+}
+.h4 {
+  font-family: Work Sans, Helvetica;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1;
+  @media (min-width: $medium-size) {
+    font-size: 24px;
+  }
+}
+.big-paragraph {
+  font-family: Work Sans, Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 25px;
+  @media (min-width: $medium-size) {
+    font-size: 18px;
+  }
+}
+
+.paragraph {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.42;
+  @media (min-width: $medium-size) {
+    font-size: 16px;
+  }
+}
+.small-paragraph {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.39;
+}
+.very-small-paragraph {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.56;
+}
+.button-link {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.39;
+}
+.button-link-bold {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.44;
+}
+.input {
+  font-family: Work Sans, Helvetica;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 0.72;
+}
+
+// Text position classes
+.text-right {
+  text-align: right;
+}
+.text-left {
+  text-align: left;
+}
+.text-center {
+  text-align: center;
+}
+
+// Text color classes
+.text-white {
+  color: $white;
+}
+.text-primary {
+  color: $primary-color;
+}
+.text-gray {
+  color: $gray;
+}
+.text-black {
+  color: $black;
+}

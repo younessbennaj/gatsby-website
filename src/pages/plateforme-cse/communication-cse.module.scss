@@ -1,0 +1,174 @@
+@import '../../fonts.scss';
+@import '../../variables.scss';
+@import '../../mixins';
+@import '../../sections.scss';
+
+.heroSection {
+  max-width: $wrapper-max-width;
+  margin: auto;
+  padding: 142px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+  display: flex;
+  flex-direction: column;
+  @media (min-width: $medium-size) {
+    flex-direction: row;
+  }
+
+  .content {
+    @media (min-width: $small-size) {
+      width: 90%;
+    }
+
+    margin: auto;
+    margin-right: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px $wrapper-horizontal-padding;
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+
+    h1 {
+      @extend .h1;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+      margin: 0px 0px 30px 0px;
+    }
+
+    p {
+      @extend .paragraph;
+      @extend .text-black;
+      @media (min-width: $medium-size) {
+        text-align: left;
+      }
+      margin: 0px 0px 30px 0px;
+    }
+  }
+
+  .rightPane {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    div {
+      width: 400px;
+      margin: auto;
+    }
+
+    @media (min-width: $medium-size) {
+      width: 50%;
+    }
+  }
+}
+
+.clientsSection {
+  padding: 50px $wrapper-horizontal-padding;
+}
+
+.clientsSectionTitle {
+  @extend .h4;
+  text-align: center;
+}
+
+.contactForm {
+  padding: 50px 100px;
+  padding-top: 10px;
+
+  @media (min-width: $medium-size) {
+    padding: 0px 300px;
+  }
+
+  @media (min-width: $large-size) {
+    padding: 0px 500px;
+  }
+
+  &__title {
+    font-size: 2em;
+    line-height: 1.15;
+    margin: 0px 0px 30px 0px;
+    font-weight: 600;
+    @extend .text-black;
+    @media (min-width: $medium-size) {
+      text-align: center;
+    }
+  }
+
+  input {
+    &[name='bot-field'] {
+      display: none;
+    }
+  }
+
+  form {
+    width: 100%;
+  }
+
+  .message {
+    width: 100%;
+    display: flex;
+    margin-bottom: 24px;
+
+    textarea {
+      width: 100%;
+      height: 100px;
+      border-radius: 2px;
+      border: solid 1px $black;
+      background-color: $white;
+      padding: 2px;
+      padding-left: 10px;
+      @extend .button-link;
+      @extend .text-left;
+      @extend .text-black;
+    }
+  }
+
+  .formGroup {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 20px;
+
+    label {
+      @extend .very-small-paragraph;
+      @extend .text-left;
+      @extend .text-black;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+    input {
+      height: 32px;
+      border-radius: 2px;
+      border: solid 1px $black;
+      background-color: $white;
+      padding: 2px;
+      padding-left: 10px;
+      @extend .button-link;
+      @extend .text-left;
+      @extend .text-black;
+    }
+    select {
+      height: 38px;
+      border-radius: 0px;
+      border: solid 1px $black;
+      background-color: $white;
+      padding: 2px;
+      padding-left: 10px;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      @extend .button-link;
+      @extend .text-left;
+      @extend .text-black;
+    }
+  }
+
+  .columnInputs {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+
+    .formGroup {
+      width: 100%;
+    }
+  }
+}

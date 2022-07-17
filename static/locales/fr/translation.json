@@ -1,0 +1,1377 @@
+{
+  "pages": {
+    "index": {
+      "heroSection": {
+        "title": "La simplicité pour votre CSE",
+        "subtitle": "Facilitez votre quotidien avec Leeto, solutions pour CSE et RH d’avantages salariés, de gestion de trésorerie, de communication et bien plus sur une plateforme unique. ",
+        "cta": "Demander une démo",
+        "refer": "Recommander Leeto",
+        "free_trial": "Essai gratuit",
+        "open_account": "Ouvrir un compte",
+        "know_more": "En savoir plus"
+      },
+      "clientSection": {
+        "title": "Ils nous font confiance"
+      },
+      "feature_1": {
+        "title": "Le tout-en-un du CSE",
+        "subtitle": "Un outil de gestion CE/CSE complet",
+        "description_1": " La gestion de votre CSE n’a jamais été aussi simple. Vous centralisez sur une seule plateforme toutes vos missions, du début à la fin de votre mandat.",
+        "description_2": " Comptes de paiement ASC et AEP, module de budgétisation, ensemble d’avantages salariés personnalisés, communication pour votre CSE, assistance juridique, nous vous permettons d’aller encore plus loin dans votre mandat, pour le bonheur de vos bénéficiaires !",
+        "link_description": "> Découvrir nos offres pour le CSE"
+      },
+      "feature_2": {
+        "title": "Des solutions pour RH et dirigeants",
+        "subtitle": "Un ensemble d’avantages salariés sur-mesure",
+        "description_1": "Renforcez le bien-être et l’engagement de vos collaborateurs avec un ensemble d’avantages salariés variés et personnalisés, sans aucune gestion de votre part.",
+        "description_2": "Subvention sport, voyage, culture et loisirs clé-en-main, cartes cadeaux multi-enseignes, offres promos et billetterie... Tous les avantages de vos salariés et votre communication sont centralisés sur une seule plateforme.",
+        "link_description": "> Découvrir nos offres pour RH et dirigeants"
+      },
+      "feature_3": {
+        "title": "Une plateforme simple et appréciée des salariés",
+        "subtitle_1": "Tous leurs avantages salariés à portée de main",
+        "description_1": "L’ensemble des salariés bénéficiaires disposent d’un accès unique à tous leurs avantages partout et à tout moment grâce à notre Web App.",
+        "description_2": "Ils bénéficient ainsi de centaines d’offres négociées, d’une billetterie et de l’avantage le plus personnalisé et impactant : la subvention, qui leur permet de se faire rembourser toutes leurs activités sociales et culturelles, en toute liberté et sans limite d’enseignes.",
+        "link_description": "> Recommander votre entreprise pour bénéficier des avantages"
+      },
+      "supportSection": {
+        "title": "Un service client aux petits oignons",
+        "description": "Nous nous enrichissons de nos échanges avec nos utilisateurs. Vous avez une question ? Nous y répondons au plus vite afin d'améliorer votre expérience sur Leeto. 😇",
+        "mCardTestimonialExternal": {
+          "quote": "Service client au top et l’utilisation de cet outil est très ludique et simple",
+          "name": "Thomas L.",
+          "company": "Salariée de Shadow - Avis Google"
+        }
+      },
+      "securitySection": {
+        "title": "La sécurité est notre priorité",
+        "description": "Chez Leeto on aime rigoler, mais pas avec la sécurité ! Nous menons plusieurs fois par an des audits de sécurité pour assurer la protection de toutes vos données personnelles, en contrôlant régulièrement l’ensemble de nos protocoles de sécurité informatiques.",
+        "more_info": " En savoir plus →",
+        "cta": "Demander une démo"
+      },
+      "trustSection": {
+        "name": "Rejoignez la communauté !",
+        "testimonials": [
+          {
+            "testimonial": "Super service, embarras du choix, interface très bien conçue !",
+            "name": "Nicolas G.",
+            "job": "Secrétaire comité d'entreprise Criteo"
+          },
+          {
+            "testimonial": "Simplicité d'utilisation, site internet très pratique et agréable. Bon choix de services, bref au top !",
+            "name": "Fanny P.",
+            "job": "ContentSquare"
+          },
+          {
+            "testimonial": "Belle interface, beaucoup d'avantages, simple d'utilisation et rapidité de prise en charge des demandes",
+            "name": "Dimitri L.",
+            "job": "Wemanity"
+          }
+        ]
+      },
+      "jobSection": {
+        "name": "Leeto grandit !",
+        "description": "Participe au futur des avantages salariés.",
+        "cta": "Découvre nos opportunités"
+      }
+    },
+    "testimonials": {
+      "title": "Nos élus CSE témoignent",
+      "subtitle": "Découvrez le témoignage des CSE qui nous font déjà confiance pour la gestion de leurs trésorerie, avantages et communication..."
+    },
+    "about": {
+      "about": "À propos de Leeto",
+      "mission": {
+        "name": "Notre Mission",
+        "title": "Aider les entreprises à acroître le bien-être de leurs salariés"
+      },
+      "vision": {
+        "name": "Notre Vision",
+        "title": "Les avantages salariés du 21e siecle",
+        "description": "Une majorité des avantages salariés sont encore proposés sous format papier (chèques cadeaux, chèques vacances, billeterie). Cela engendre une insatisfaction des salariés pour les avantages existants."
+      },
+      "solution": {
+        "name": "Notre Solution",
+        "title": "Plateforme pour les avantages salariés",
+        "description": "Pour simplifier la gestion des avangages salariés, nous avons conçu une solution simple à destination des comités d'entreprise, ressources humaines et office managers."
+      },
+      "values": {
+        "title": "Nos valeurs",
+        "values": [
+          {
+            "title": "Obsession du service client",
+            "description": "Nous travaillons dur pour apporter la meilleur expérience possible et le bonheur à nos utilisateurs finaux afin qu’il bénéficient de la meilleure experience possible."
+          },
+          {
+            "title": "Transparence",
+            "description": "La transparence est la clé pour maintenir sur le long terme un lien de confiance, à la fois en interne et avec nos utilisateurs finaux. Nous partageons avec honnêteté toutes nos décisions, nos réussites et nos échecs, sans chercher à les enjoliver ou les aliéner."
+          },
+          {
+            "title": "Soif d'apprendre",
+            "description": "Nous faisons preuve d’humilité et avons conscience du champs de notre ignorance. Nous nous efforçons donc constamment à repousser les limites de l’inconnu et à nous améliorer par la recherche de connaissances."
+          },
+          {
+            "title": "Créateur de solutions",
+            "description": "Nous sommes guidés par un objectif : apporter à nos utilisateurs finaux des solutions simples à des problèmes complexes. Nous plaçons une exigence importante à ce que nos solutions ne fassent pas l’impasse sur l’ergonomie et la simplicité d’utilisation de notre produit."
+          },
+          {
+            "title": "Guidés par les données",
+            "description": "Nous ne croyons ni au hasard ni aux croyances. Toutes nos décisions sont prises à partir des données issues de nos tests empiriques. Cette approche scientifique nous permet d’exclure toute subjectivité aux décisions que nous prenons et d’en améliorer la justesse."
+          }
+        ]
+      },
+      "story": {
+        "title": "Notre histoire",
+        "milestones": [
+          {
+            "title": "Septembre 2018",
+            "description": "Création de Leeto par Arthur, Alban et Guillaume"
+          },
+          {
+            "title": "Janvier 2019",
+            "description": "Lancement de Leeto auprès de nos premiers utilisateurs"
+          },
+          {
+            "title": "Juin 2019",
+            "description": "L'équipe grandit et nous sommes dorénavant dix"
+          },
+          {
+            "title": "Septembre 2019",
+            "description": "Nous finalisons une levée de fonds de 2M€ auprès d'investisseurs de renom"
+          }
+        ]
+      },
+      "team": {
+        "title": "Notre équipe",
+        "description": "Nous nous entourons des meilleurs pour construire un produit simple et aider nos utilisateurs à proposer des avantages salariés",
+        "members": [
+          {
+            "description": "Leeto se développe très vite, il faut alors suivre le mouvement. C’est ce que j’aime ici, j’apprends chaque jour et mes actions ont de réels impacts. J’adore ce sentiment !",
+            "img": "",
+            "name": "Guillaume Lestrade",
+            "job": "Co-fondateur de Leeto"
+          },
+          {
+            "description": "Leeto se développe très vite, il faut alors suivre le mouvement. C’est ce que j’aime ici, j’apprends chaque jour et mes actions ont de réels impacts. J’adore ce sentiment !",
+            "img": "",
+            "name": "Guillaume Lestrade",
+            "job": "Co-fondateur de Leeto"
+          },
+          {
+            "description": "Leeto se développe très vite, il faut alors suivre le mouvement. C’est ce que j’aime ici, j’apprends chaque jour et mes actions ont de réels impacts. J’adore ce sentiment !",
+            "img": "",
+            "name": "Guillaume Lestrade",
+            "job": "Co-fondateur de Leeto"
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Notre équipe vous présente Leeto",
+      "body": "Découvrez ce que Leeto peut faire pour votre CSE et vos salariés !",
+      "form": {
+        "firstName": {
+          "label": "Prénom",
+          "placeholder": "Jean"
+        },
+        "lastName": {
+          "label": "Nom",
+          "placeholder": "Dupont"
+        },
+        "email": {
+          "label": "Email professionnel",
+          "placeholder": "prenom@entreprise.com"
+        },
+        "phone": {
+          "label": "Téléphone",
+          "placeholder": "06 12 34 56 78"
+        },
+        "organization": {
+          "label": "Société",
+          "placeholder": "Entreprise"
+        },
+        "hasCSE": {
+          "label": "Avez-vous un CSE ?"
+        },
+        "headcount": {
+          "label": "Effectif"
+        },
+        "position": {
+          "label": "Fonction"
+        },
+        "needs": {
+          "label": "Quels sont vos besoins ?",
+          "placeholder": "Compte pro en ligne, avantages exclusifs, expertise CSE..."
+        },
+        "button": "Valider mes informations",
+        "submitSuccess": "Vos informations ont été validées 🎉"
+      },
+      "link": "Recommander Leeto en tant que salarié"
+    },
+    "startup-signup": {
+      "title": "Offrez Leeto à vos salariés",
+      "body": "Leeto vous permet de rembourser les activités sportives et culturelles de vos salariés, sans cotisation ni gestion.",
+      "body_2": "Profitez de cet essai gratuit pour tester en exclusivité toutes les fonctionnalités de Leeto.",
+      "form": {
+        "firstName": {
+          "label": "Prénom",
+          "placeholder": "Jean"
+        },
+        "lastName": {
+          "label": "Nom",
+          "placeholder": "Dupont"
+        },
+        "email": {
+          "label": "Email professionnel",
+          "placeholder": "prenom@entreprise.com"
+        },
+        "phone": {
+          "label": "Téléphone",
+          "placeholder": "06 12 34 56 78"
+        },
+        "budget": "Budget avantage salarié",
+        "organization": {
+          "label": "Société",
+          "placeholder": "Entreprise"
+        },
+        "hasCSE": {
+          "label": "Avez-vous un CSE ?"
+        },
+        "headcount": {
+          "label": "Effectif"
+        },
+        "position": {
+          "label": "Fonction"
+        },
+        "button": "Démarrer mon essai gratuit",
+        "submitSuccess": "Vos informations ont été validées 🎉"
+      }
+    },
+    "thank-you": {
+      "title": "Merci !",
+      "subtitle": "Notre équipe vous recontactera très prochainement !",
+      "back_link": "Retour à la page d’accueil"
+    },
+    "thank-you-free-trial": {
+      "title": "Vous êtes inscrit !",
+      "subtitle": "Vous recevrez votre invitation pour vous connecter à votre espace Leeto très prochainement",
+      "back_link": "Retour à la page d’accueil"
+    },
+    "pricing": {
+      "heroSection": {
+        "title": "Une offre pour chaque besoin",
+        "subtitle": "Leeto vous permet de gérer votre CSE : de l'ouverture de votre compte de paiement au remboursement des activités sportives et culturelles de vos salariés, sans cotisation ni gestion.",
+        "neobanque": {
+          "name": "Compte pro",
+          "description": "Le seul compte de paiement uniquement à destination des CSE.",
+          "conditions": "",
+          "price": "29€",
+          "price_detail": " / mois",
+          "features": [
+            "IBAN Français",
+            "Virements illimités",
+            "Comptes ASC et AEP",
+            "Carte virtuelle incluse",
+            "Catalogue de réductions"
+          ],
+          "cta": "Démarrer"
+        },
+        "marketplace": {
+          "name": "Catalogue",
+          "description": "Gâtez vos bénéficiaires grâce à des offres exclusives négociées rien que pour vous. 100% en ligne.",
+          "price": "",
+          "conditions": "",
+          "features": [
+            "Catalogue de réductions complet : plus de 1 000 offres exclusives",
+            "Billetterie instantanée 100% en ligne",
+            "Paiements sécurisés"
+          ],
+          "cta": "Nous contacter"
+        },
+        "tout-en-un": {
+          "name": "Tout-en-un",
+          "description": "Le meilleur de Leeto réuni dans une offre unique. Parfait pour votre CSE et vos bénéficiaires !",
+          "price": "",
+          "conditions": "",
+          "customFeature": "Compte pro offert 🎉",
+          "features": [
+            "Catalogue de réductions complet : plus de 1 000 offres exclusives",
+            "Billetterie instantanée 100% en ligne",
+            "Subvention : budget salariés ASC à dépenser n’importe où. Gestion clé-en-main par l’équipe Leeto",
+            "Remboursement en 24 heures",
+            "Activités de groupe : gestion des inscriptions et paiements",
+            "Communication : espace de partage aux salariés"
+          ],
+          "cta": "Nous contacter"
+        }
+      },
+      "commonFeatures": {
+        "title": "Inclus dans toutes nos offres",
+        "features": [
+          "Support",
+          "Accès salariés",
+          "Communauté d'élus CSE",
+          "100% en ligne",
+          "Evenements Leeto exclusifs",
+          "Chargé de compte dédié",
+          "Réseau d’experts",
+          "Contenu CSE (webinar & meetup)",
+          "Mises à jours permanentes"
+        ]
+      },
+      "questionsSection": {
+        "title": "Une question ?",
+        "questions": [
+          {
+            "title": "Est-ce qu'il y a des coûts d'installation et de formation ?",
+            "question": "Nous vous accompagnons dans les différentes étapes du lancement du produit. Pour autant, nous ne facturons aucun frais d'installation et aucun frais de formation."
+          },
+          {
+            "title": "Est-ce que Leeto respecte les règles URSSAF ?",
+            "question": "Nos experts sont présents pour vous accompagner sur Leeto et vous aider à appliquer au quotidien les différentes règles URSSAF."
+          },
+          {
+            "title": "Quel est le niveau de sécurité de nos données ?",
+            "question": "Nous attachons une grande importance à la sécurité de vos données et nous mettons tout en œuvre pour les protéger. Les données de nos utilisateurs sont stockées en Europe et nous appliquons le RGPD."
+          }
+        ]
+      }
+    },
+    "blog": {
+      "title": "Blog"
+    },
+    "rh": {
+      "heroSection": {
+        "title": "Recrutez et fidélisez vos talents avec les meilleurs avantages",
+        "subtitle": "Repensez le bien être de vos salariés, donnez leur envie de rester à vos cotés, de rejoindre une entreprise qui prend soin d'eux",
+        "cta": "Demander une démo"
+      },
+      "featuresSection": [
+        {
+          "title": "Renforcez votre marque employeur",
+          "subtitle": "Brillez grâce à vos avantages salariés",
+          "description": "70% des jeunes actifs privilégient les avantages salariés au salaire. Grâce à Leeto, gagnez en attractivité et améliorez la rétention de vos talents en proposant les avantages salariés qui correspondent enfin aux besoins de vos salariés"
+        },
+        {
+          "title": "Faites vous entendre de tous vos salariés",
+          "subtitle": "Accessible partout, tout le temps",
+          "description": "Grâce à Leeto, vos salariés peuvent consulter simplement tous les avantages qu’ils ont à un seul endroit : fini l’information perdue. Communiquez simplement sur vos actions QVT et valorisez vos actions"
+        },
+        {
+          "title": "Personnalisez vos avantages salariés",
+          "subtitle_1": "Une cagnotte pour chacun d’eux",
+          "description_1": "Grâce à la cagnotte Leeto, vos salariés peuvent se faire rembourser n’importe quelle dépense liée au loisir, culture ou sport. Et bien sûr, Leeto s’occupe de tout.",
+          "subtitle_2": "Un accompagnement sur-mesure",
+          "description_2": "Nos experts URSSAF se chargent de valider les demandes de remboursement de vos salariés : tout est sous contrôle "
+        },
+        {
+          "title": "Offrez Leeto en 2 min, on s’occupe du reste",
+          "subtitle_1": "Une interface simple et efficace",
+          "description_1": "Invitez vos salariés pour qu’ils puissent bénéficier de leur cagnotte et des offres négociées par Leeto instantanément.",
+          "subtitle_2": "Leeto est là pour vous et vos salariés",
+          "description_2": "Nous répondons à vos demandes et celles de vos salariés en moins de 2h. Les demandes de remboursement sont traitées sous 24h."
+        },
+        {
+          "title": "Augmentez le pouvoir d’achat de vos salariés",
+          "subtitle_1": "Bénéficiez d’offres sélectionnées pour vous",
+          "description_1": "Nous avons négocié pour vous des centaines de réductions et offres exclusives allant jusqu'à 60% auprès des marques et services que vos salariés utilisent vraiment 😍",
+          "link": "> Voir toutes nos offres",
+          "subtitle_2": "Recevez vos billets instantanément",
+          "description_2": "Une fois votre commande finalisée, vous recevez instantanément vos billets par email et sur votre application Leeto  ⚡️"
+        }
+      ]
+    },
+    "cse": {
+      "heroSection": {
+        "title": "Enfin une solution pour distribuer équitablement votre budget ASC",
+        "subtitle": "100 % de vos salariés vont pouvoir consommer les avantages que vous leur offrez. Cerise sur le gâteau nous gérons toutes les tâches à faible valeur ajoutée à votre place",
+        "cta": "Demander une démo"
+      },
+      "featuresSection": [
+        {
+          "title": "Simplifiez-vous la gestion de votre CSE",
+          "subtitle_1": "Gérez simplement la subvention",
+          "description_1": "Proposez une cagnotte pour rembourser les activités sportives et culturelles de vos salariés qu’ils pourront utiliser partout",
+          "subtitle_2": "Faites vos remboursements sur Leeto",
+          "description_2": "Leeto traite chaque demande de salarié sous 24h et procède à son remboursement en moins d’une semaine 💸"
+        },
+        {
+          "title": "Donnez du pouvoir d'achat à vos salariés",
+          "subtitle_1": "Des partenaires triés sur le volet",
+          "description_1": "Nous avons négocié pour vous des centaines de réductions et offres exclusives allant jusqu’à 60% auprès des marques et services que vos salariés utilisent vraiment 😍",
+          "subtitle_2": "Solution simplifiée pour la billetterie",
+          "description_2": "Vos salariés vont pouvoir acheter leurs billets pour le cinéma, le parc d’attraction ou le théâtre directement sur Leeto. Le salarié reçoit de manière instantanée son billet par email et sur son application ⚡️. Fini les livraisons de billets par la Poste en 3 semaines"
+        },
+        {
+          "title": "Concentrez-vous sur l’essentiel",
+          "subtitle_1": "Accompagnement personnalisé par un expert",
+          "description_1": "Avec Leeto, vous n’avez plus aucune gestion. Votre expert CSE s’occupera pour vous des demandes de remboursement de vos salariés",
+          "subtitle_2": "Plus besoin de vous plonger dans la comptabilité",
+          "description_2": "Leeto génère automatiquement les écritures comptables aux normes et vous accompagne dans votre reporting 😀"
+        },
+        {
+          "title": "Communiquez avec les salariés",
+          "subtitle_1": "Présentez les actions de votre CSE à vos salariés",
+          "description_1": "Vos salariés ont accès à une interface simple et ergonomique sur desktop et mobile, regroupant les différents avantages de vos salariés",
+          "subtitle_2": "Nouez des liens forts avec vos salariés",
+          "description_2": "Avec Leeto, vous pouvez échanger avec vos salariés pour être au plus proche d’eux"
+        },
+        {
+          "title": "Tous les avantages à portée de main",
+          "subtitle_1": "Accessible partout",
+          "description_1": "Leeto est accessible sur mobile et vous permet de profiter de vos avantages salariés où que vous soyez.",
+          "subtitle_2": "Le bonus ?",
+          "description_2": "Nous préparons une carte Leeto, permettant à vos salariés de profiter de leurs avantages salariés et d’économiser à tous les coups 😀"
+        }
+      ]
+    },
+    "nos_services": {
+      "heroSection": {
+        "title": "Leeto, le tout-en-un pour votre CSE",
+        "subtitle": "Leeto sera votre unique partenaire pour vous conseiller, vous permettre d'ouvrir un compte de paiement simplement et satisfaire vos bénéficiaires en permanence.",
+        "cta": "Demander une démo"
+      },
+      "featuresSection": [
+        {
+          "title": "Comptes pro en ligne pour CSE",
+          "id": "compte pro",
+          "propositions": [
+            {
+              "subtitle": "Ouverture de compte 100% en ligne, en quelques clics",
+              "description": "Ouvrez votre compte de paiement en temps record et bénéficiez d'un compte exclusivement pensé pour répondre aux besoins des CSE."
+            },
+            {
+              "subtitle": "Une comptabilité simplifiée",
+              "description": "Bénéficiez de 2 comptes reliés à votre profil pour gérer en parallèle vos 2 budgets AEP et ASC. Catégorisez vos dépenses en quelques clics et liez vos justificatifs à chacune de vos transactions."
+            }
+          ]
+        },
+        {
+          "title": "Expertise CSE",
+          "id": "expertise",
+          "propositions": [
+            {
+              "subtitle": "Une plateforme d'experts avec des avis vérifiés",
+              "description": "Echangez simplement avec les meilleurs experts (expertise comptable, aide juridique ...) grâce aux avis vérifiés de vos pairs via notre plateforme exclusive créée par Leeto."
+            },
+            {
+              "subtitle": "Une communauté d'élus CSE",
+              "description": "Retrouvez vos pairs sur le Clan des CSE pour échanger sur vos premiers jours et les questions que vous pourriez avoir tout au long de votre mandat."
+            }
+          ]
+        },
+        {
+          "title": "Communication",
+          "id": "communication",
+          "propositions": [
+            {
+              "subtitle": "Une proximité renforcée entre les salariés et le CSE",
+              "description": "Communiquez directement sur toutes vos actualités et vos avantages : engagez les avec des sondages, partagez des photos de vos évènement et bien d'autres options pour faire briller et animer votre CSE et vos actions auprès des salariés."
+            }
+          ]
+        },
+        {
+          "title": "Offres négociées : avantages salariés",
+          "id": "marketplace",
+          "propositions": [
+            {
+              "subtitle": "Des partenaires triés sur le volet",
+              "description": "Nous avons négocié pour vous des centaines de réductions et offres exclusives allant jusqu’à 60% auprès des marques et services que vos salariés consomment vraiment 😍"
+            },
+            {
+              "subtitle": "Une solution simplifiée pour la billetterie",
+              "description": "Vos salariés achètent leurs billets pour le cinéma, le parc d’attraction ou le théâtre directement sur Leeto. Le salarié reçoit de manière instantanée son billet par email et sur son application ⚡️"
+            }
+          ]
+        },
+        {
+          "title": "Subvention",
+          "id": "subvention",
+          "propositions": [
+            {
+              "subtitle": "Des avantages hyper-personnalisés",
+              "description": "Proposez une cagnotte pour rembourser les activités sportives et culturelles de vos salariés qu’ils pourront utiliser pour les activités de leur choix."
+            },
+            {
+              "subtitle": "Une gestion simplifiée des remboursements",
+              "description": "Vous n'avez rien à faire 🏖 Leeto traite chaque demande de salarié sous 24h et procède à son remboursement depuis votre compte en moins d’une semaine sans intervention de votre part."
+            }
+          ]
+        },
+        {
+          "title": "Gestion d'évènements",
+          "id": "evenements",
+          "propositions": [
+            {
+              "subtitle": "Une aide à la gestion de vos évènements",
+              "description": "Organisez et communiquez vos évènements directement depuis Leeto et récoltez les participations des salariés dans le cadre d'évènements payants."
+            }
+          ]
+        }
+      ]
+    },
+    "ceo": {
+      "heroSection": {
+        "title": "L'avantage qui plait aux salariés et aux entreprises.",
+        "title_2": "Tout le monde y gagne",
+        "subtitle": "Vous souhaitez proposer des avantages cools à vos salariés sans vous ruiner ? Leeto vous offre une solution simple et abordable pour vous",
+        "cta": "Demander une démo"
+      },
+      "featuresSection": [
+        {
+          "title": "Le seul avantage sans cotisation sociale",
+          "subtitle_1": "Exonération de charges sociales",
+          "description_1": "Que vous attribuiez 300 ou 1500 euros par an par salarié vous ne payez aucune cotisation sociale tant que ce budget est distribué équitablement et sans discrimination à tous vos salariés.",
+          "subtitle_2": "Retour sur investissement",
+          "description_2": "Vos dépenses en QVT ont un retour sur investissement de +231%, notamment en réduisant le turnover de votre équipe et en augmentant sa productivité  😀"
+        },
+        {
+          "title": "Augmentez le pouvoir d’achat de vos salariés",
+          "subtitle_1": "Remboursez Netflix et Spotify à vos salariés",
+          "description_1": "Proposez une cagnotte pour rembourser les activités sportives et culturelles de vos salariés qu’ils pourront utiliser partout (par exemple : Airbnb, Spotify ou Netflix)",
+          "subtitle_2": "Des partenaires triés sur le volet",
+          "description_2": "Nous avons négocié pour vos salariés des centaines de réductions et offres exclusives allant jusqu'à 60% auprès des marques et services qu’ils utilisent vraiment 🎁"
+        },
+        {
+          "title": "Lancez Leeto en 2 minutes, on s'occupe de tout",
+          "subtitle_1": "Solution clé en main",
+          "description_1": "Leeto vous permet de vous affranchir totalement des tâches administratives liées à vos avantages salariés. Votre expert en avantages salariés s’occupera de tout jusqu'au remboursement du salarié",
+          "subtitle_2": "Service support réactif",
+          "description_2": "Leeto traite chaque demande de salarié sous 24h et procède à son remboursement en moins d’une semaine 💸"
+        },
+        {
+          "title": "Un avantage idéal pour tous vos salariés",
+          "subtitle_1": "Les grands sportifs",
+          "description_1": "Peuvent se faire rembourser leurs abonnements à la salle de sport, les cours de yoga etc",
+          "subtitle_2": "Les grands voyageurs",
+          "description_2": "Peuvent se faire rembourser leurs billets de train, d'avion, leurs hôtels ou AirBnb",
+          "subtitle_3": "Les érudits",
+          "description_3": "Peuvent se faire rembourser les tickets de cinéma, concerts, théâtre, musée mais aussi leurs abonnements Netflix, Spotify, etc."
+        }
+      ]
+    },
+    "product": {
+      "heroSection": {
+        "title": "Un nouveau type d'avantage",
+        "subtitle": "Vous êtes un sportif ou un grand voyageur, vous adorez découvrir de nouvelles choses. Vous êtes tout ça a la fois? Leeto est fait pour vous.",
+        "cta": "Demander une démo"
+      },
+      "featuresSection": [
+        {
+          "slug": "subventions",
+          "title": "Vous êtes un grand sportif ?",
+          "description": "Vous faites du sport en salle, vous prenez des cours de yoga ou vous utilisez une application de méditation comme le Petit Bambou. Vous pouvez vous faire rembourser vos activités par votre entreprise grâce à Leeto."
+        },
+        {
+          "slug": "carte-cadeaux",
+          "title": "Vous êtes un grand voyageur ?",
+          "description": "Vous adorez voyager, vous prenez le train ou l'avion pour vous rendre dans une nouvelle destination. Vous louez une voiture pour découvrir les alentours. Vous logez à l'hôtel ou dans un Airbnb. Faites-vous rembourser grâce à Leeto."
+        },
+        {
+          "slug": "billetterie",
+          "title": "Vous êtes un érudit ?",
+          "description": "Vous allez tous les weekends au musée, voir un spectacle ou un concert ? Vous êtes un grand fan de Game of Thrones (OCS) et House of cards (Netflix) ? Faites vous rembourser vos dépenses et vos abonnements grâce à Leeto."
+        },
+        {
+          "slug": "monitoring",
+          "title": "Mais quel est cet avantage ?",
+          "description": "Toutes les entreprises avec ou sans comité d'entreprise peuvent rembourser les activités sportives, culturelles et même les voyages de leurs salariés, et ce sans cotisation sociale. Leeto démocratise cet avantage auprès des PME et des CSE."
+        },
+        {
+          "slug": "offres-exclusives",
+          "title": "Une carte pour vous simplifier la vie 😀",
+          "description": "Payez tous vos abonnements (salle de sport, Netflix, Spotify etc) et vos voyages avec la carte Leeto. Plus besoin d'avancer l'argent, les dépenses éligibles sont directement prélevées sur votre budget. Le bonus ? Vous pourrez bénéficier tout au long de l'année de cashback avec des marques iconiques. 😀"
+        }
+      ],
+      "teamSection": {
+        "title": "Un comité et des salariés heureux !",
+        "testimonials": [
+          {
+            "img": "",
+            "testimonial": "Très cool les soirées Netflix offertes par mon CE 😉",
+            "jobTitle": "Salarié"
+          },
+          {
+            "img": "",
+            "testimonial": "Leeto fait briller notre comité auprès de toute l'équipe !",
+            "jobTitle": "Comité d'entreprise"
+          },
+          {
+            "img": "",
+            "testimonial": "La mise en place de Leeto nous permet de recruter plus de talents, nous le mettons en avant dès le process de recrutement",
+            "jobTitle": "Ressources humaines"
+          }
+        ]
+      },
+      "functionalitiesSection": {
+        "title": "Nos fonction&shy;nalités",
+        "functionalities": [
+          {
+            "logo": "card",
+            "title": "Carte cadeau Leeto",
+            "description": "La carte Leeto remplace les chèques cadeaux papiers encombrants"
+          },
+          {
+            "logo": "ticket",
+            "title": "E-billet",
+            "description": "Proposez et subventionnez des e-billets."
+          },
+          {
+            "logo": "dollar",
+            "title": "Remboursement",
+            "description": "Gérez les demandes et remboursements de A à Z sur Leeto."
+          },
+          {
+            "logo": "user",
+            "title": "Gestion des rôles",
+            "description": "Attribuez des rôles aux membres de votre comité pour simplifier votre quotidien."
+          },
+          {
+            "logo": "mobile",
+            "title": "Mobile",
+            "description": "Accédez à notre site sur votre mobile. Leeto est 100% responsive."
+          },
+          {
+            "logo": "alarm",
+            "title": "Rappels aux salariés",
+            "description": "Leeto rappelle automatiquement à votre équipe quand leurs avantages expirent"
+          },
+          {
+            "logo": "document",
+            "title": "Comptabilité",
+            "description": "Simplifiez la comptabilité du comité avec des exports de qualités."
+          },
+          {
+            "logo": "user",
+            "title": "Gestion de salariés",
+            "description": "Importez et gérez la liste de vos salariés directement sur Leeto."
+          },
+          {
+            "logo": "chat",
+            "title": "Communication",
+            "description": "Simplifiez la communication des avantages à vos salariés."
+          }
+        ]
+      }
+    },
+    "press-kit": {
+      "title": "Espace Presse",
+      "introduction": {
+        "body1": "La mission de Leeto : construire le futur des avantages salariés pour aider les entreprises à rendre leurs employés heureux.",
+        "body2": "Leeto est la première plateforme pour les CE qui, grâce à une carte de paiement, permet aux collaborateurs de profiter facilement de tous leurs avantages salariés dans leur vie quotidienne. La solution apporte une expérience :",
+        "body3": "simple",
+        "body4": "fluide",
+        "body5": "transparente",
+        "body6": "Vous pouvez nous contacter à l'adresse email ",
+        "email": "media@leeto.co"
+      },
+      "kit": {
+        "title": "Envie d'en savoir plus ?",
+        "body": "Découvrez notre kit média. Téléchargez notre dossier de presse, notre logo, nos visuels et des photos de notre équipe.",
+        "link": "Voir le kit média"
+      }
+    },
+    "free_trial": {
+      "title": "Offrez Leeto à vos salariés",
+      "body": "Leeto vous permet de rembourser les activités sportives et culturelles de vos salariés, sans cotisation ni gestion.",
+      "body_2": "Profitez de 2 mois gratuits pour tester en exclusivité toutes les fonctionnalités de Leeto.",
+      "form": {
+        "button": "Démarrer mon essai gratuit"
+      }
+    },
+    "avantages": {
+      "action": "Demander une démonstration",
+      "title": "Un ensemble d'avantages salariés pour vos bénéficiaires ",
+      "description": "Pilotez tous les avantages sociaux de vos salariés sur une seule et même plateforme pour simplifier votre quotidien d'élu(e) CSE et satisfaire vos salariés avec des avantages hyper-personnalisés.",
+      "form": {
+        "title": "Contactez notre équipe pour bénéficier d’une démonstration",
+        "button": "Demander une démonstration"
+      },
+      "feature_1": {
+        "title": "Augmentez le pouvoir d'achat de vos bénéficiaires",
+        "subtitle_1": "Un catalogue d'offres exclusives",
+        "description_1": "Faites bénéficier à vos salariés d'un catalogue de centaines d’offres négociées par notre équipe, accessible en ligne à tous vos salariés dès le 1er jour ! ",
+        "subtitle_2": "Solution simplifiée pour la billetterie",
+        "description_2": "Vos salariés achètent leurs billets pour le cinéma, le parc d’attraction, le théâtre etc. et reçoivent leurs e-billets de manière instantanée ⚡️"
+      },
+      "feature_2": {
+        "title": "Des avantages hyper-personnalisés",
+        "subtitle_1": "Gestion complète du remboursement sur facture",
+        "description_1": "Faites profiter à vos salariés d'une subvention sur leurs activités sociales et culturelles, sans vous préoccuper de la gestion : notre équipe s'occupe de valider les factures et de procéder au remboursement sur le compte du salarié.",
+        "subtitle_2": "Un choix illimité pour vos salariés",
+        "description_2": "Vos bénéficiaires peuvent choisir de dépenser leur subvention directement sur les offres éligibles de notre catalogue, ou de se faire rembourser leur voyage, salle de sport, livre, jeux vidéos, musées, concerts... peu importe l’enseigne."
+      },
+      "feature_3": {
+        "title": "Offrez des cartes cadeaux multi-enseignes",
+        "subtitle_1": "Des coups de pouce pour les grandes occasions",
+        "description_1": "Rentrée scolaire, Noël, mariage... Paramétrez en quelques clics vos cartes cadeaux et leur montant pour vos bénéficiaires et leurs ayants-droits. Un reliquat en fin de validité ? Vous êtes re-crédité du montant restant sur votre compte. Fini les dépenses perdues 💸",
+        "subtitle_2": "Simplicité d’utilisation",
+        "description_2": "Vos bénéficiaires peuvent utiliser leur carte cadeau dématérialisée directement sur les offres éligibles de notre catalogue ou peuvent choisir parmi des centaines d’enseignes, pour un paiement en boutique ou en ligne sur le site du partenaire."
+      },
+      "feature_4": {
+        "title": "Gérez votre budget ASC simplement",
+        "subtitle_1": "Définissez simplement vos budgets",
+        "description_1": "Grâce à notre module de budgetisation, anticipez simplement vos entrées et vos dépenses de l’année et suivez-les en temps réel pour les ajuster si nécessaire.",
+        "subtitle_2": "Catégorisation des dépenses et comptabilité simplifié",
+        "description_2": "Catégorisez simplement vos dépenses et attachez des justificatifs à vos transactions pour exporter en 1 clic tout l'historique de vos transactions catégorisées."
+      },
+      "faq": {
+        "question_1": {
+          "title": "Quels avantages mettre en place pour les salariés ? ",
+          "descriptions": [
+            {
+              "text": "Entre subventions sociales, culturelles et sportives, chèque-vacances, carte cadeaux multi-enseignes ou spécialisées ou encore offres négociées, les moyens pour le CSE de redistribuer son budget ASC aux bénéficiaires sont nombreux."
+            },
+            {
+              "link": "les avantages salariés",
+              "text": "En savoir plus sur "
+            }
+          ]
+        },
+        "question_2": {
+          "title": "Pourquoi passer par un compte pro comme Leeto pour mon CSE plutôt qu’une banque traditionnelle ?",
+          "reasons": [
+            "Attirer des candidats (et futurs salariés)",
+            "Renforcer le bien-être des collaborateurs et la qualité de vie au travail (QVT)",
+            "Retenir et fidéliser les talents de l'entreprise."
+          ],
+          "description_1": "Au-delà de la satisfaction de simplement faire plaisir aux salariés, mettre en place des avantages permet de :",
+          "description_2": "Pour en savoir plus, retrouvez en détails les 3 bénéfices directs des ",
+          "link": "avantages salariés."
+        },
+        "question_3": {
+          "title": "Quels sont les avantages éligibles à l'exonération des charges sociales ?",
+          "descriptions": [
+            {
+              "text": "Certains avantages peuvent bénéficier d'une exonération de charges sociales, ce qui n'est pas négligeable, aussi bien pour vous que pour le bénéficiaire et ses ayants-droits."
+            },
+            {
+              "link": "<strong>l’exonération des charges pour les cartes cadeaux.</strong>",
+              "text": "Ce sont notamment le cas des subventions pour les activités sociales, sportives et culturelles ou encore des cartes et chèques cadeaux (limités à 171 euros par an <strong>- tout savoir de </strong>"
+            }
+          ]
+        },
+        "title": "Foire aux questions"
+      }
+    },
+    "plateformeCSE": {
+      "title": "La solution tout-en-un pour votre CSE",
+      "description": "Gérez très simplement votre CSE et gagnez du temps sur vos différentes prérogatives (gestion des budgets, avantages salariés...) grâce à une suite complète d’outils et services dédiés, sur une seule et même plateforme.",
+      "feature_1": {
+        "title": "Un éventail complet d’avantages salariés",
+        "subtitle_1": "La subvention ASC pour tous",
+        "description_1": "Définissez un montant par salarié, nous prenons la suite en charge : de la validation de justificatif au remboursement du salarié directement sur son compte. La personnalisation des avantages et la satisfaction des salariés à la portée de tous les CSE.",
+        "subtitle_2": "Des offres pour tous les goûts",
+        "description_2": "Notre catalogue propose des centaines de promos exclusives et d’offres de billetterie pour plaire au plus grand nombre et contribuer au pouvoir d’achat de vos bénéficiaires. Ces derniers peuvent soit payer directement sur la plateforme, soit utiliser leur subvention ou carte cadeau."
+      },
+      "feature_2": {
+        "title": "Des outils interconnectés pour faciliter la gestion et le suivi de vos actions",
+        "subtitle_1": "Remboursement simplifié et ultra-rapide",
+        "description_1": "Suivez en temps réel la consommation des avantages que vous offrez à vos bénéficiaires. Procédez aux remboursements des subventions en un clic pour réduire les délais, en finir avec la gestion manuelle et satisfaire les salariés.",
+        "subtitle_2": "Vos budgets ASC et AEP en un coup d’oeil",
+        "description_2": "Les transactions associées à vos comptes de paiement ASC et AEP sur Leeto sont automatiquement catégorisées et vous permettent de suivre en temps réel vos budgets. En prime, la génération de vos librables comptables est automatique."
+      },
+      "feature_3": {
+        "title": "Plus de proximité entre le CSE et les salariés",
+        "subtitle_1": "Un espace de communication dédié",
+        "description_1": "Centralisez toute votre communication directement sur Leeto : partage des PV de réunion, sondage, trombinoscope, fil d’actualités, collecte de participation pour vos évènements... Vos salariés savent où trouver toutes les informations.",
+        "subtitle_2": "Du temps pour le dialogue social",
+        "description_2": "Leeto vous décharge d’un grand nombre de tâches chronophages pour pouvoir réserver vos heures de délégation à vos véritables prérogatives d’élu.e CSE : le dialogue social et la représentation des salariés de votre entreprise."
+      },
+      "feature_4": {
+        "title": "Un accompagnement à la hauteur de vos missions",
+        "subtitle_1": "L’assistance juridique pour CSE et salariés",
+        "description_1": "Posez vos questions directement sur la plateforme et bénéficiez de conseils sur toutes vos problématiques juridiques CSE. Les salariés peuvent également y avoir accès depuis leur espace dédié.",
+        "subtitle_2": "Vous êtes bien entourés",
+        "description_2": "Des questions sur votre mandat ? Un besoin en formation ? Recherche de bonnes pratiques ? Nous vous mettons en relation avec notre communauté d’élus ou d’experts du CSE, selon vos besoins."
+      },
+      "feature_5": {
+        "title": "Des avantages salariés mobiles",
+        "subtitle_1": "Disponibilité sur mobile",
+        "description_1": "Grâce à notre Progressive Web App, l’outil Leeto ne quittera plus vos salariés. Disponible sans téléchargement, elle propose les mêmes fonctionnalités et services dont les salariés disposent via ordinateur et tablette grâce à une utilisation simple et intuitive.",
+        "subtitle_2": "Un accès pratique à tous les avantages",
+        "description_2": "Même à distance, offrez à vos salariés la possibilité de gérer leurs avantages comme ils l’entendent. Accès à la billetterie instantanée, aux offres promos et aux demandes de remboursement... Accompagnez vos salariés où qu'ils soient !"
+      }
+    },
+    "neobanque": {
+      "action": "Demander une démonstration",
+      "title": "Le 1er Compte Pro en ligne pour CSE",
+      "description": "Vous êtes élu(e) CSE et souhaitez ouvrir vos comptes de paiement en ligne ? Le compte pro Leeto vous accompagne dans la gestion de votre budget et de votre trésorerie.",
+      "form": {
+        "title": "Contactez notre équipe pour bénéficier d’une démonstration",
+        "button": "Demander une démonstration"
+      },
+      "feature_1": {
+        "title": "Le seul compte pro dédié au CSE",
+        "subtitle_1": "Ouverture de compte simple et rapide",
+        "description_1": "Ouvrez vos comptes de paiement en ligne et en quelques clics dans un délai moyen de 48 heures, avec un minimum de documents demandés pour simplifier vos démarches.",
+        "subtitle_2": "Des comptes de paiement pensés pour les CSE",
+        "description_2": "Notre solution a été entièrement pensée pour répondre aux besoins spécifiques du trésorier CSE. Disponible en module simple ou pour se connecter aux différents modules de comptabilité et aux avantages (ASC) de la plateforme."
+      },
+      "feature_2": {
+        "title": "Des services adaptés aux besoins CSE",
+        "subtitle_1": "2 comptes pour vos budgets ASC et AEP",
+        "description_1": "Pour faciliter la gestion de votre trésorerie et de vos budgets, vous bénéficiez de 2 comptes courants distincts pour vos oeuvres sociales et votre fonctionnement. Transférez les budgets restants d'un compte à l'autre en fin d'année dans le respect des règles et en toute simplicité.",
+        "subtitle_2": "Moyens de paiement multiples",
+        "description_2": "Pour mener à bien vos missions et effectuer vos transactions, vous bénéficiez avec vos comptes courants de plusieurs moyens de paiement : virements SEPA illimités, 2 cartes virtuelles et 2 RIB (un par budget)."
+      },
+      "feature_3": {
+        "title": "Budgétisation et comptabilité ultra-simplifiée",
+        "subtitle_1": "Créez et suivez vos budgets en temps réel",
+        "description_1": "Définissez pour votre exercice comptable vos différentes entrées et dépenses prévues par catégorie et par budget (ASC ou AEP) et suivez les en temps réel grâce à la catégorisation de vos dépenses.",
+        "subtitle_2": "Facilitez votre comptabilité ultra-simplifiée ",
+        "description_2": "Vos livrables comptables aux normes sont générés automatiquement en 1 clic grâce aux transactions catégorisées et la correspondance aux normes de l’Autorité des Normes Comptables (ANC)."
+      },
+      "feature_4": {
+        "title": "Sécurité de vos transactions",
+        "subtitle_1": "Votre argent est en sécurité",
+        "description_1": "Leeto est accrédité par l’Autorité de Contrôle Prudentiel et de Résolution (ACPR). Votre argent est assuré à hauteur de 100 000 € par le Fonds de Garantie des Dépôts et de Résolution (FGDR).",
+        "subtitle_2": "Contrôle de nos protocoles",
+        "description_2": "Nous menons plusieurs fois par an des audits de sécurité pour assurer la protection de toutes vos données personnelles, en contrôlant régulièrement l’ensemble de nos protocoles de sécurité informatiques."
+      },
+      "faq": {
+        "bankAdmin": {
+          "title": "Qui est responsable des comptes du CSE ?",
+          "descriptions": [
+            {
+              "text": "Le Comité Social et Economique est juridiquement considéré comme une personne morale et les titulaires du compte ne sont que mandataires du comité dont ils font partie. Ainsi, le CSE (et non le trésorier ou titulaire du compte) est juridiquement responsable en cas de problèmes."
+            },
+            {
+              "text": "Avec Leeto, vous êtes accompagné pour faciliter la tenue de vos comptes afin d’éviter tout risque d’erreur, notamment grâce à nos fonctionnalités de catégorisation des dépenses et de comptabilité simplifiée par exemple."
+            },
+            {
+              "link": "les différentes missions du trésorier du CSE.",
+              "text": "Consultez dans cet article "
+            }
+          ]
+        },
+        "questions": [
+          {
+            "description": [
+              "<strong>Virement SEPA ou entrants ou sortants : </strong>Vous ne payez aucuns frais sur les virements SEPA émis et reçus et ce quel que soit le montant ! Les virements SWIFT (réception et émission) ne sont pas supportés par Leeto.",
+              "<strong>Emission et encaissement des chèques : </strong>Pour le moment vous ne pouvez ni émettre ni encaisser de chèques avec votre compte Leeto."
+            ],
+            "title": "Virements, prélèvement, chèques"
+          },
+          {
+            "description": [
+              "En cas d'utilisation abusive ou frauduleuse de votre compte, Leeto doit procéder à des opérations spéciales coûteuses. Des frais spéciaux sont alors appliqués",
+              "<strong>Gestion d'irrégularités tels qu'un ATD / OTD (Avis à Tiers Détenteur / Opposition à Tiers Détenteur : </strong>50€",
+              "<strong>Prélèvement (ou virement) refusé : </strong>10€ / événement"
+            ],
+            "title": "Opérations spéciales"
+          },
+          {
+            "description": [
+              "Un Kbis de moins de 3 mois de la société, le PV des élections du CSE (Cerfa 15822-02). Pour chaque mandataire du compte (ex. le trésorier) : 2 pièces d'identités et un justificatif de domicile de moins de 3 mois. C'est tout ✌️"
+            ],
+            "title": "Quels documents fournir pour ouvrir mes comptes chez Leeto ?"
+          },
+          {
+            "description": [
+              "Vous n'avez rien à payer pendant l'ouverture de votre compte. Nous facturerons automatiquement votre compte de fonctionnement du montant de l'abonnement à la fin du premier mois. Vous n'avez rien à faire."
+            ],
+            "title": "Comment fonctionne la facturation de mon abonnement ?"
+          },
+          {
+            "description": [
+              "Leeto peut aussi bien servir de compte principal que de compte secondaire pour votre CSE. Si vous le souhaitez, rien ne vous empêche de conserver vos anciens comptes ouverts. Entre nous, vous choisirez rapidement de toute basculer sur votre compte Leeto ;)"
+            ],
+            "title": "J'ai déjà un compte pour mon CSE, dois-je le fermer ?"
+          }
+        ],
+        "title": "Foire aux questions",
+        "who": {
+          "title": "Qui peut ouvrir un compte en banque pour le CSE ?",
+          "descriptions": [
+            {
+              "text": "Une délibération prise à la majorité des membres présents doit désigner le ou les titulaires du compte bancaire lors d’une réunion ordinaire ou extraordinaire. Le plus souvent, le secrétaire ou le trésorier sont choisis pour assurer ce rôle."
+            },
+            {
+              "text": "Ensuite, tous les CSE, petits ou grands, peuvent ouvrir un compte sur Leeto ! Nous procédons à l'ouverture du compte et à la vérification des documents 100% en ligne."
+            },
+            {
+              "link": "3 étapes de l’ouverture d’un compte en banque pour les CSE.",
+              "text": "Retrouvez les "
+            }
+          ]
+        },
+        "whyLeeto": {
+          "title": "Pourquoi passer par un compte pro comme Leeto pour mon CSE plutôt qu’une banque traditionnelle ?",
+          "reasons": [
+            "Une ouverture de comptes en ligne et en quelques clics, contre parfois plus de 6 mois d'attente avec rendez-vous physique en agence traditionnelle.",
+            "L'assurance d'avoir des fonctionnalités pensées et dédiées spécifiquement pour les besoins du CSE. En bonus, un service client disponible, réactif et expert des problématiques du CSE.",
+            "Un tarif transparent de 29 euros/mois sans frais cachés et avec virements illimités. Fini donc les prélèvements ou frais sortis de nulle part."
+          ],
+          "description": "Par ailleurs, Leeto (Clan) est un agent prestataire de service de paiement, régulé par l'ACPR (Banque de France), et enregistré sous le numéro 841 674 997.<br /> Pour de le compte pro Leeto, rendez-vous sur notre article ",
+          "link": "« CSE : banque traditionnelle vs. compte pro Leeto »"
+        }
+      },
+      "services": {
+        "description": "Leeto simplifie la vie des comités d'entreprise et salariés. Laissez votre e-mail pour être recontacté.",
+        "services": [
+          "Expertise CSE",
+          "Offres négociées",
+          "Subvention",
+          "Gestion d'événements",
+          "Communication"
+        ],
+        "title": "Découvrez nos services dédiés au CSE"
+      }
+    },
+    "solutionRH": {
+      "title": "Le bien-être de vos salariés au cœur de nos préoccupations",
+      "description": "Attraction et fidélisation des talents, motivation et amélioration de la qualité de vie au travail : découvrez tous les bénéfices des avantages salariés sur le bien-être de vos salariés avec notre solution clé en main.",
+      "feature_1": {
+        "title": "Une cagnotte culture, loisirs et sport pour tous",
+        "subtitle_1": "Offrez de la culture, des loisirs et du sport ",
+        "description_1": "Choyez vos salariés tout en bénéficiant d'exonération de charges. Faites-les profiter d'une cagnotte pour le remboursement de leurs activités sociales, sportives et culturelles sans limite d’enseigne. En bonus, la cagnotte est aussi utilisable sur les offres éligibles de notre boutique en ligne. ",
+        "subtitle_2": "Nous nous occupons de la gestion",
+        "description_2": "Définissez un montant par salarié, nous prenons la suite en charge : de la validation de justificatif au remboursement du salarié directement sur son compte. Participez au bien-être de vos salariés avec des avantages personnalisés, sans effort."
+      },
+      "feature_2": {
+        "title": "Augmentez le pouvoir d'achat de vos salariés",
+        "subtitle_1": "Une multitude d’avantages disponibles",
+        "description_1": "Billetterie instantanée et dématérialisée, e-carte cadeau multi-enseignes, offres promotionelles et réductions allant jusqu’à 66%. Tout est réuni sur une seule plateforme.",
+        "subtitle_2": "Des centaines d’offres négociées",
+        "description_2": "Récompensez vos salariés avec des avantages utiles, personnalisables selon votre culture d’entreprise et surtout modernes. Cinéma, services de streaming, presse, voyage, salles de sport, enseignes de grande consommation, jeux vidéo... Tout le monde y trouve son compte."
+      },
+      "feature_3": {
+        "title": "Communiquez auprès des salariés",
+        "subtitle_1": "Un module de communication ergonomique",
+        "description_1": "Participez au renforcement de la cohésion de vos équipes à l’aide de nos outils de communication : fil d’actualités, partage de documents, sondages, trombinoscope... Communiquer avec vos salariés n’aura jamais semblé aussi accessible.",
+        "subtitle_2": "Des évènements pour tisser et maintenir des liens",
+        "description_2": "Créez, organisez et récoltez simplement les participations (si besoin) des évènements internes en quelques secondes : team building, afterwork, sorties... Idéal pour contribuer à la bonne entente de vos équipes, développer des valeurs partagées et construire votre marque employeur."
+      },
+      "feature_4": {
+        "title": "Des avantages salariés mobiles",
+        "subtitle_1": "Disponibilité sur mobile",
+        "description_1": "Grâce à notre Progressive Web App, l’outil Leeto ne quittera plus vos salariés. Disponible sans téléchargement, elle propose les mêmes fonctionnalités et services dont les salariés disposent via ordinateur et tablette grâce à une utilisation simple et intuitive.",
+        "subtitle_2": "Un accès pratique à tous les avantages",
+        "description_2": "Même à distance, offrez à vos salariés la possibilité de gérer leurs avantages comme ils l’entendent. Accès à la billetterie instantanée, aux offres promos et aux demandes de remboursement... Accompagnez vos salariés où qu'ils soient !"
+      }
+    },
+    "comptabilite": {
+      "title": "Votre comptabilité CSE ultra-simplifiée ",
+      "description": "Logiciel de comptabilité ultra-simplifiée, module de budgétisation et compte pro pour CSE : facilitez la gestion de la comptabilité de votre CSE à l’aide de nos différents outils et de la synergie qui en résulte 🔥",
+      "feature_1": {
+        "title": "Un outil de comptabilité ultra-simplifiée complet et moderne",
+        "subtitle_1": "Votre partenaire tout-en-un de comptabilité",
+        "description_1": "Oubliez les tableurs Excel et découvrez notre logiciel de comptabilité ultra-simplifiée intégré à vos comptes de paiements. Tout est pensé pour faciliter le quotidien du trésorier CSE et faire gagner du temps au moment de la clôture comptable.",
+        "subtitle_2": "Respect des obligations comptables du CSE",
+        "description_2": "Tous les documents obligatoires de votre comptabilité (états de synthèse, livre chronologique, synthèse du patrimoine...) sont aux normes, exportables en un clic et s’actualisent en temps réel pour une gestion comptable optimale."
+      },
+      "feature_2": {
+        "title": "Un module de budgétisation pour vous accompagner au quotidien",
+        "subtitle_1": "Deux comptes et budgets distincts : AEP et ASC",
+        "description_1": "Définissez pour votre exercice comptable vos différentes entrées et dépenses prévues par catégorie (évènements, abonnements, subvention, formation, etc.) et par budget (ASC ou AEP).",
+        "subtitle_2": "Suivez et pilotez vos budgets tout au long de l'année",
+        "description_2": "Attachez vos justificatifs et catégorisez toutes vos transactions pour qu'elles s'attribuent automatiquement au budget correspondant. Suivez visuellement et en temps réel l'évolution de votre trésorerie pour pouvoir ajuster vos budgets si nécessaire."
+      },
+      "feature_3": {
+        "title": "Vos livrables aux normes en 1 clic grâce aux transactions catégorisées",
+        "subtitle_1": "Disponible avec ou sans compte de paiement Leeto",
+        "description_1": "Bénéficiez de l’intégration intuitive avec vos comptes de paiement Leeto pour générer vos librables automatiquement avec vos transactions catégorisées. Vous pouvez également choisir d’importer vos transactions depuis un compte externe sur la plateforme avant de les catégoriser.",
+        "subtitle_2": "Conformité avec les normes ANC",
+        "description_2": "Chacune de vos transactions catégorisées fait automatiquement l’objet d’une correspondance avec les prescriptions de l’Autorité des Normes Comptables (ANC), que vous pouvez modifier par ailleurs. "
+      }
+    },
+    "expertiseCSE": {
+      "title": "Expertise CSE",
+      "description": "Besoin d'accompagnement personnalisé ou de réponses à vos différentes questions pour votre CSE ? Leeto vous propose un accompagnement permanent sur l'ensemble de vos missions et durant tout votre mandat.",
+      "feature_1": {
+        "title": "Trouvez le meilleur expert pour votre CSE",
+        "subtitle_1": "Une plateforme d'experts avec des avis vérifiés",
+        "description_1": "Échangez simplement avec les meilleurs experts (expertise comptable, aide juridique ...) grâce aux avis vérifiés de vos pairs via notre plateforme exclusive créée par Leeto."
+      },
+      "feature_2": {
+        "title": "Échangez avec vos pairs",
+        "subtitle_1": "Une communauté d'élus CSE",
+        "description_1": "Retrouvez vos pairs sur le Clan des CSE pour échanger sur vos missions d'élu et les questions que vous pourriez avoir tout au long de votre mandat."
+      },
+      "feature_3": {
+        "title": "Bénéficiez d'un accompagnement permanent pour votre CSE",
+        "subtitle_1": "Un chargé de compte expert du CSE",
+        "description_1": "Un chargé de compte vous est dédié et vous accompagne tout au long de votre mandat : c'est votre interlocuteur privilégié.",
+        "subtitle_2": "Une équipe ultra-réactive",
+        "description_2": "Vous rencontrez un problème ? Pas de panique, l'équipe support de Leeto est là pour vous guider 😍"
+      },
+      "feature_4": {
+        "title": "Assistance juridique pour CSE et salariés",
+        "subtitle_1": "Des conseils juridiques en illimité",
+        "description_1": "Posez vos questions CSE sur le droit du travail directement sur la plateforme et bénéficiez de conseils d’avocats sur la marche à suivre. Les salariés peuvent également avoir accès à ce service depuis leur espace dédié, pour toutes leurs questions juridiques (au-delà du droit du travail)."
+      },
+      "faq": {
+        "questions": [
+          {
+            "description": [
+              "Trouver un bon expert pour une mission de formation, d'expertise comptable ou d'aide juridique n'est pas une mince affaire. La première étape est de vérifier si l'organisme est agréé ou à minima spécialiste du CSE (pour l'expert-comptable par exemple). N'hésitez pas à en rencontrer plusieurs, et si vous avez besoin de plus d'aide, n'hésitez pas à consulter notre annuaire d'experts, avec des avis vérifiés d'autres CSE."
+            ],
+            "title": "Comment trouver un bon expert pour accompagner mon CSE ?"
+          },
+          {
+            "description": [
+              "Tout dépend de la mission en question. Par exemple, la formation santé au travail est à la charge de l'employeur, alors que la formation économique et sociale est financée par le budget de fonctionnement."
+            ],
+            "title": "Qui finance les missions d'expertise CSE ?"
+          },
+          {
+            "description": [
+              "Cela dépend de la taille de votre entreprise : pour les entreprises de plus de 50 salariés, les formations santé et sécurité ainsi qu'économique et financière sont obligatoires. Pour les entreprises de moins de 50 salariés, seule la formation santé et sécurité est obligatoire."
+            ],
+            "title": "Quelles sont les formations obligatoires pour le CSE ? "
+          }
+        ],
+        "title": "Foire aux questions"
+      }
+    },
+    "communicationCSE": {
+      "title": "Communication CSE",
+      "description": "Communiquez et valorisez vos actions CSE auprès de vos bénéficiaires grâce à la centralisation de toutes vos actualités, vos évènements et avantages sur une seule et même plateforme.",
+      "feature_1": {
+        "title": "Communiquez auprès des salariés",
+        "subtitle_1": "Une proximité renforcée entre le CSE et les salariés",
+        "description_1": "Engagez les salariés avec un fil d'actualités enrichi, des sondages, un trombinoscope, partagez des fichiers, des photos de vos évènements ou des articles de blog et faites briller votre CSE et vos actions auprès des salariés ⭐",
+        "subtitle_2": "Centralisation des informations",
+        "description_2": "Communiquez directement sur toutes vos actualités, vos avantages et vos fichiers sur une seule et même plateforme, afin d'éviter la perte d'information 💪"
+      },
+      "feature_2": {
+        "title": "Gérez tous vos évènements",
+        "subtitle_1": "Une aide précieuse à la gestion de vos évènements",
+        "description_1": "Organisez et communiquez sur vos évènements gratuits ou payants avec notre outil (nombre de participants, date, lieu...), tout en gardant la possibilité de les modifier à tout moment ✅",
+        "subtitle_2": "Collecte des participations",
+        "description_2": "Récoltez les participations des salariés dans le cadre d'évènements payants directement sur votre compte pro Leeto, pour une plus grande fluidité et facilité de gestion 🔥"
+      },
+      "feature_3": {
+        "title": "Un fil d'actualités enrichi",
+        "subtitle_1": "Partagez différents types de contenu",
+        "description_1": "Engagez vos salariés avec des publications mises en forme et facilement accessibles via des tags ou partagez des articles de blog où vous pouvez centraliser contenus, liens, photos et documents autour d'une thématique 🖋️",
+        "subtitle_2": "Des sondages pour recueillir les avis des salariés",
+        "description_2": "Proposez également en quelques instants des sondages de type \"oui\"/\"non\", ou créez vous-mêmes vos propres choix personnalisés afin de récolter facilement les retours de vos salariés sur les sujets de votre choix❓"
+      },
+      "feature_4": {
+        "title": "Un module de communication tout-en-un ",
+        "subtitle_1": "Un espace de stockage pour vos documents CSE",
+        "description_1": "L'onglet Fichiers permet de centraliser tous les documents que vous souhaitez partager à vos salariés ou entre membres du CSE. En effet, l'option \"visibilité\" permet de définir qui sont les cibles du document. Comme d'habitude, des tags permettent de vous y retrouver facilement 👌",
+        "subtitle_2": "Un trombinoscope pour mettre en avant votre CSE",
+        "description_2": "Cet espace recense tous les membres de votre CSE ainsi que leurs informations primordiales (numéro de téléphone, mail, fonction...) afin que vos salariés puissent vous contacter facilement. Selon vos souhaits, ces informations peuvent être masquées en un instant 💬"
+      },
+      "faq": {
+        "questions": [
+          {
+            "description": [
+              "Il est important de montrer aux salariés que vous oeuvrez <strong>en permanence</strong> pour leur représentation. Plusieurs moyens sont mis à disposition pour cela, comme par exemple des espaces d'affichages dédiés dans les locaux de l'entreprise ou encore la possibilité de communiquer sur des offres par email. Cependant, utiliser une plateforme digitale est un bon moyen d'être accessible par tous les salariés à tout moment et bien-sûr de <strong>centraliser toute l'information</strong> en un seul et même espace, pour éviter la perte d'information."
+            ],
+            "title": "Pourquoi utiliser une plateforme digitale pour sa communication ?"
+          },
+          {
+            "description": [
+              "Un logiciel de gestion du CSE est financé par le <strong>budget de fonctionnement</strong> (AEP) car celui-ci répond de la gestion administrative et la vie du CSE. Si le logiciel permet d'allouer du budget d'activités sociales et culturelles aux salariés, cette partie sera prise en charge par le budget ASC."
+            ],
+            "title": "Comment financer un logiciel de gestion du CSE ?"
+          },
+          {
+            "description": [
+              "Au-delà du partage du PV de réunion qui est vivement encouragé, il est important pour un CSE de <strong>communiquer régulièrement</strong> auprès des salariés. En effet, il existe des temps forts (rentrée scolaire, Noël ou à l'approche des vacances) pendant lesquelles le CSE doit se rappeler aux salariés, afin de mettre en avant leurs différentes initiatives. Il ne faut pas hésiter non plus à produire des newsletters régulières ou à défaut un <strong>bilan annuel</strong> de toutes les actions menées par les élus, pour renforcer la proximité entre le CSE et les salariés."
+            ],
+            "title": "Quelles sont les opportunités de communication du CSE ? "
+          }
+        ],
+        "title": "Foire aux questions"
+      }
+    }
+  },
+  "landing": {
+    "om": {
+      "heroSection": {
+        "title": "Le futur des avantages salariés",
+        "subtitle": "Des avantages qu'on est fier d'offrir et heureux de recevoir",
+        "subtitle_2": "Leeto propose une expérience repensée et simplifiée pour votre CE et votre équipe",
+        "cta": "En savoir plus"
+      },
+      "benefitsSection": [
+        {
+          "description": "Payez simplement vos dépenses culture et loisir",
+          "name": "Carte"
+        },
+        {
+          "description": "Profitez de remises négociées rien que pour vous",
+          "name": "Pouvoir d'achat"
+        },
+        {
+          "description": "Les avantages cultures & loisirs sont exonérés de charges",
+          "name": "0€ de cotisation"
+        }
+      ],
+      "giftCardSection": {
+        "title": "Tous les avantages à portée de main",
+        "description": "Payez en ligne et en boutique votre abonnement vidéo préféré ou la librairie en bas de chez vous. Tous les avantages sociaux et culturels éligibles peuvent-être réglés avec votre carte Leeto.",
+        "cta": "Liste des avantages éligibles"
+      },
+      "whySection": {
+        "title": "Le meilleur investissement pour votre entreprise",
+        "description": "80% des salariés préfèrent des avantages en nature que des augmentations de salaire. Faites comme Uber et ManoMano, offrez simplement des avantages qui plaisent pour recruter et retenir vos talents."
+      },
+      "supportSection": {
+        "title": "Un service client aux petits oignons",
+        "description": "Nous aimons nos utilisateurs ! L'équipe est joignable et répond à toutes vos questions et à celles de votre équipe. On est là pour ça 😇",
+        "mCardTestimonialExternal": {
+          "quote": "Service client au top et l’utilisation de cet outil est très ludique et simple",
+          "name": "Thomas L.",
+          "company": "Salariée de Shadow - Avis Google"
+        }
+      },
+      "securitySection": {
+        "title": "La sécurité est notre priorité",
+        "description": "Chez Leeto on aime rigoler, mais pas avec la sécurité ! Nous menons plusieurs fois par an des audits de sécurité pour assurer la protection de toutes vos données personnelles, en contrôlant régulièrement l’ensemble de nos protocoles de sécurité informatiques.",
+        "more_info": " En savoir plus →",
+        "cta": "Demander une démo"
+      },
+      "trustSection": {
+        "name": "Rejoignez la communauté !",
+        "testimonials": [
+          {
+            "testimonial": "Auparavant, les salariés de Criteo devaient envoyer manuellement leurs demandes de remboursement sur un formulaire Google. Maintenant, tout se fait sur Leeto",
+            "name": "Nicolas G.",
+            "job": "Criteo"
+          },
+          {
+            "testimonial": "Nous avons une meilleur vision des avantages auxquelles on a le droit. On en utilise donc plus, ce qui a un impact positif sur toutes les équipes",
+            "name": "Fanny P.",
+            "job": "ContentSquare"
+          },
+          {
+            "testimonial": "Permettre d'offrir simplement des avantages  sans cotisation est un vrai plus.",
+            "name": "Dimitri L.",
+            "job": "Wemanity"
+          }
+        ]
+      }
+    }
+  },
+  "templates": {
+    "blog-post": {
+      "socials": {
+        "follow": "Suivez-nous",
+        "share": "Partager"
+      },
+      "other_articles": "Du même auteur"
+    }
+  },
+  "components": {
+    "navigation": {
+      "companyName": "Leeto",
+      "product": "Produit",
+      "pricing": "Tarifs",
+      "about": "A propos",
+      "clients": "Clients",
+      "why": "Pourquoi Leeto ?",
+      "services": {
+        "title": "Plateforme CSE",
+        "description": "Nos différentes solutions pour la gestion de votre CSE"
+      },
+      "services_submenu": [
+        {
+          "page": "Compte en ligne CSE",
+          "link": "/plateforme-cse/compte-pro"
+        },
+        {
+          "page": "Avantages salariés",
+          "link": "/plateforme-cse/avantages-salaries"
+        },
+        {
+          "page": "Experts CSE",
+          "link": "/plateforme-cse/experts-cse"
+        },
+        {
+          "page": "Communication CSE",
+          "link": "/plateforme-cse/communication-cse"
+        },
+        {
+          "page": "Comptabilité CSE",
+          "link": "/plateforme-cse/comptabilite-cse"
+        },
+        {
+          "page": "Billetterie CSE",
+          "link": "/plateforme-cse/billetterie-cse"
+        }
+      ],
+      "why_submenu": [
+        {
+          "page": "Equipe RH",
+          "description": "Attirez plus de talents"
+        },
+        {
+          "page": "CE / CSE",
+          "description": "Le meilleur avantage pour vos bénéficiaires"
+        },
+        {
+          "page": "Dirigeants",
+          "description": "Des avantages, avec 0 charge et 0 gestion"
+        }
+      ],
+      "ressources_parent": {
+        "title": "Ressources",
+        "description": "Toutes les ressources utiles pour votre mandat d'élu CSE"
+      },
+      "ressources_submenu": [
+        {
+          "link": "/blog",
+          "page": "Blog",
+          "description": "Retrouvez nos articles"
+        },
+        {
+          "page": "Communauté CSE",
+          "description": "Échangez avec +300 élu.e.s",
+          "link": "https://go.leeto.co/communaute-cse"
+        },
+        {
+          "page": "Webinars",
+          "description": "Replay & inscriptions",
+          "link": "https://app.livestorm.co/leeto"
+        },
+        {
+          "page": "Témoignages clients"
+        },
+        {
+          "page": "Podcasts",
+          "description": "Le bien-être au travail",
+          "link": "https://anchor.fm/le-clan-leeto"
+        }
+      ],
+      "login": "Se connecter",
+      "demo": "Demander une démo",
+      "free_trial": "Essai gratuit",
+      "open_account": "Ouvrir un compte",
+      "blog": "Blog"
+    },
+    "pressSection": {
+      "quote": "“Leeto révolutionne le marché des avantages salariés en France”",
+      "title": "Ils parlent de nous"
+    },
+    "in_blog_call_to_action_section": {
+      "title": "Besoin d'une aide personnalisée ?",
+      "description": "Leeto vous accompagne pendant et après la création de votre CSE",
+      "placeholder": "Téléphone",
+      "button": "Etre rappelé"
+    },
+    "call_to_action_section": {
+      "title": "Choisissez Leeto pour votre CSE et vos bénéficiaires",
+      "description": "Leeto simplifie la vie des comités d'entreprise et des salariés. Laissez votre e-mail pour être recontacté.",
+      "label_email": "Email",
+      "label_phoneNumber": "Téléphone",
+      "label_headcount": "Effectifs",
+      "button": "Demander une démo",
+      "submitSuccess": "Vos informations ont été validées 🎉"
+    },
+    "testimonials_section": {
+      "title": "Leeto : la solution plébiscitée par les CSE",
+      "testimonials": [
+        {
+          "company": "Quitoque",
+          "person": "Nolwenn Boulogne",
+          "title": "Secrétaire du CSE",
+          "jobtitle": "Responsable qualité @ Quitoque",
+          "content": "Avoir accès à <strong>des avantages qui collent vraiment avec les habitudes de vie et les loisirs des salariés </strong> (abonnements Netflix, Spotify, Petit Bambou, Episod…) a été l’un des facteurs déterminant dans le choix de Leeto."
+        },
+        {
+          "company": "Uber",
+          "person": "Julia Martinez",
+          "title": "Membre du CSE",
+          "jobtitle": "Responsable qualité @ Uber",
+          "content": "Leeto est avantageux, simple et complet. <strong>Uber a choisi Leeto afin de permettre à nos salariés d'avoir la plus grande liberté dans le choix des types d'activités</strong> qu'ils souhaitaient se faire rembourser"
+        },
+        {
+          "company": "Amazon",
+          "person": "Emilie Escoffres",
+          "title": "Secrétaire du CSE",
+          "jobtitle": "Responsable qualité @ Amazon",
+          "content": "Après un benchmark des plateformes existantes pour les CSE, nous avons choisi <strong>Leeto car l’offre répondait à tous nos besoins</strong> : un espace simple à utiliser pour les employés, la flexibilité de l'outil et le temps réduit passé par les membres du CSE sur la gestion des subventions."
+        }
+      ],
+      "description": "Leeto simplifie la vie des comités d'entreprise et des salariés. Laissez votre e-mail pour être recontacté.",
+      "label_email": "Email",
+      "label_phoneNumber": "Téléphone",
+      "label_headcount": "Effectifs",
+      "button": "Demander une démo",
+      "submitSuccess": "Vos informations ont été validées 🎉"
+    },
+    "footer": {
+      "col1Title": "Leeto",
+      "description": "Le futur des avantages à portée de main.",
+      "acpr_legal": "Clan, société immatriculée au registre du commerce et des sociétés de Bobigny sous le numéro 841 674 997, exploitant le nom commercial Leeto est enregistrée auprès de l'Autorité de Contrôle Prudentiel et de Résolution (ACPR) en tant qu'agent de TREEZOR SAS, au capital de 1.800.000€ - siège social 41 rue de Prony, 75017 Paris - RCS Nanterre n°807 465 059 Treezor SASU Capital de 3 334 962,00 Euros Siège social 33 avenue de Wagram,75017 Paris Siren 807 465 059 | RCS Paris",
+      "col2Title": "Plateforme CSE",
+      "col2Title2": "Solutions RH",
+      "col2Title3": "Tarifs",
+      "platform": [
+        {
+          "name": "Comptes pro",
+          "slug": "plateforme-cse/compte-pro"
+        },
+        {
+          "name": "Avantages salariés",
+          "slug": "plateforme-cse/avantages-salaries"
+        },
+        {
+          "name": "Comptabilité CSE",
+          "slug": "plateforme-cse/comptabilite-cse"
+        },
+        {
+          "name": "Experts CSE",
+          "slug": "plateforme-cse/experts-cse"
+        },
+        {
+          "name": "Communication CSE",
+          "slug": "plateforme-cse/communication-cse"
+        }
+      ],
+      "col4Title": "Ressources",
+      "col5Title": "Entreprise",
+      "blog": "Blog",
+      "white_paper": "Livre Blanc",
+      "press": "Presse",
+      "col3Title": "Fonctionnalités",
+      "functionalities": [
+        {
+          "name": "Blog",
+          "slug": "blog"
+        },
+        {
+          "name": "Webinars",
+          "link": "https://app.livestorm.co/leeto"
+        },
+        {
+          "name": "Podcast",
+          "link": "https://anchor.fm/le-clan-leeto"
+        },
+        {
+          "name": "Communauté CSE",
+          "link": "https://go.leeto.co/communaute-cse"
+        },
+        {
+          "name": "Témoignages clients",
+          "slug": "temoignages-clients"
+        }
+      ],
+      "privacy": "Politique de confidentialité",
+      "gcu": "CGVU",
+      "legal": "Mentions légales",
+      "faq": "F.A.Q",
+      "hr_om": "RH / Office managers",
+      "job": "On recrute !",
+      "contact": "Contact"
+    },
+    "banner": {
+      "newName": "Clan change de nom et devient Leeto 🎉",
+      "neobank": "NOUVEAU : Ouvrez vos comptes pro en ligne pour votre CSE 💳🎉"
+    },
+    "bankSection": {
+      "title": "Bien plus qu'une banque",
+      "onlineAccount": "Ouverture en 48h 100% en ligne",
+      "marketplace": "2 comptes: ASC et fonctionnement",
+      "accounting": "Comptabilité simplifiée",
+      "customerService": "Service client expert du CSE",
+      "subsidies": "Transactions catégorisées"
+    }
+  }
+}

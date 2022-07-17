@@ -1,0 +1,50 @@
+@import '../variables.scss';
+@import '../fonts';
+@import '../mixins';
+
+.title {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  @extend .button-link-bold;
+  @extend .text-left;
+  @extend .text-black;
+  font-weight: 500;
+}
+
+.clients {
+  height: 100%;
+  display: flex;
+  max-width: $wrapper-max-width;
+  margin: auto;
+  flex-wrap: wrap;
+  @media (min-width: $small-size) {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .client {
+    display: block;
+    justify-content: center;
+    margin: 20px 0px;
+    width: 100%;
+    padding: 0px 10px;
+    @media (min-width: $small-size) {
+      width: 33%;
+    }
+    @media (min-width: $medium-size) {
+      margin: 0px;
+      width: 100%;
+    }
+    .logo {
+      max-width: 200px;
+      margin: auto;
+      height: auto;
+      @media (min-width: $medium-size) {
+        max-width: inherit;
+        margin: 0px;
+      }
+    }
+  }
+}

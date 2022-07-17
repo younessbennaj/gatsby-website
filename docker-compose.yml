@@ -1,0 +1,10 @@
+version: '3.9'
+services:
+  web:
+    build: .
+    command: yarn start -H 0.0.0.0
+    volumes:
+      - .:/app
+      - /app/node_modules
+    ports:
+      - '8000:8000'

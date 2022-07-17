@@ -1,0 +1,42 @@
+@import '../fonts.scss';
+@import '../variables.scss';
+@import '../mixins';
+
+.wrapper {
+  background-color: $blue-light;
+  padding: 64px 120px;
+
+  h3,
+  h2 {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 48px;
+  }
+}
+
+.illustrationList {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .listElement {
+    margin-right: 24px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+  .image {
+    width: 96px;
+    margin: auto;
+  }
+
+  .imageDescription {
+    @extend .big-paragraph;
+    width: 180px;
+    text-align: center;
+  }
+}

@@ -1,0 +1,6 @@
+@import '../variables';
+@import './base.scss';
+
+.topBannerActive {
+  margin-top: $banner-height;
+}

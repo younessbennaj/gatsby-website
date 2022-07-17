@@ -1,0 +1,46 @@
+.faq {
+  background: $blue-light;
+  padding: 44px;
+
+  a {
+    @extend .paragraph;
+    @extend .text-left;
+    border-bottom: solid 1px $primary-color;
+    @include transition(color 0.4s ease-in-out);
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  @media (min-width: $small-size) {
+    padding: 44px 120px;
+  }
+
+  h3, h2 {
+    @extend .h3;
+    @extend .text-center;
+    @extend .text-black;
+    margin-top: 0px;
+    margin-bottom: 44px;
+  }
+
+  h4, &__title {
+    @extend .h4;
+
+    @extend .text-black;
+    margin: 0px;
+  }
+}
+
+.questionSection {
+  padding: 0px 16px;
+  margin-bottom: 80px;
+
+  @media (min-width: $small-size) {
+    padding: 0px 60px;
+  }
+
+  .section {
+    margin-bottom: 52px;
+  }
+}

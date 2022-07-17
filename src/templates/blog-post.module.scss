@@ -1,0 +1,204 @@
+@import '../fonts.scss';
+
+.heroSection {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 122px $wrapper-horizontal-padding 50px $wrapper-horizontal-padding;
+
+  h1 {
+    @extend .h3;
+    @extend .text-left;
+    @extend .text-black;
+  }
+  h2 {
+    @extend .h4;
+    @extend .text-left;
+    @extend .text-black;
+  }
+  .author {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    .image {
+      margin-right: 16px;
+      width: 55px;
+      height: 55px;
+      border-radius: 50%;
+    }
+
+    .info {
+      .name {
+        @extend .paragraph;
+        @extend .text-left;
+        @extend .text-black;
+      }
+
+      .title {
+        @extend .button-link;
+        @extend .text-left;
+        @extend .text-black;
+      }
+
+      .articleInfo {
+        display: flex;
+
+        .publishDate {
+          @extend .very-small-paragraph;
+          @extend .text-left;
+          @extend .text-gray;
+          margin-right: 5px;
+
+          &:after {
+            content: ',';
+          }
+        }
+
+        .tags {
+          @extend .very-small-paragraph;
+          @extend .text-center;
+          @extend .text-primary;
+        }
+      }
+    }
+  }
+}
+
+.articleContainer {
+  max-width: 800px;
+  margin: auto;
+  margin: 40px auto 100px;
+  position: relative;
+  padding: 0px $wrapper-horizontal-padding;
+  text-align: justify;
+  p,
+  li,
+  ul {
+    @extend .paragraph;
+    @extend .text-left;
+    @extend .text-black;
+    margin: 20px 0px;
+  }
+  p {
+    line-height: 32px;
+  }
+  strong {
+    font-weight: 600;
+  }
+
+  h1 {
+    font-size: 32px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    font-weight: 600;
+  }
+  h2,
+  h3 {
+    margin: 72px 0px 20px 0px;
+    font-weight: 600;
+  }
+
+  h3 {
+    @extend .h4;
+    @extend .text-left;
+    @extend .text-black;
+  }
+
+  @media (min-width: $medium-size) {
+    text-align: left;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  td,
+  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: $primary-color;
+    color: white;
+  }
+
+  img {
+    width: unset;
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .socials {
+    display: none;
+    @media (min-width: 1200px) {
+      position: absolute;
+      top: 0px;
+      left: -115px;
+      flex-direction: column;
+      display: flex;
+      left: -150px;
+      max-width: 100px;
+    }
+
+    @extend .button-link;
+    @extend .text-left;
+    @extend .text-black;
+
+    img {
+      width: 32px;
+      height: 32px;
+      margin: 16px 0 16px 0;
+    }
+    .snIcon {
+      cursor: pointer;
+    }
+  }
+}
+.preview {
+  @media (min-width: $medium-size) {
+    &:hover {
+      box-shadow: none;
+    }
+  }
+}
+
+.otherArticles {
+  h5 {
+    @extend .h4;
+    @extend .text-center;
+    @extend .text-black;
+    margin: 0px;
+    padding: 25px 0px 10px 0px;
+  }
+  .contentSection {
+    display: flex;
+    align-items: center;
+    max-width: $wrapper-max-width;
+    padding: 0px $wrapper-horizontal-padding;
+    margin: auto;
+    margin-bottom: 50px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    @media (min-width: $medium-size) {
+      flex-direction: row;
+    }
+    .articleCard {
+      max-width: 50%;
+      @media (min-width: $medium-size) {
+        max-width: 33%;
+      }
+      @media (min-width: $large-size) {
+        max-width: 33%;
+      }
+    }
+  }
+}
